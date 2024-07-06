@@ -27,15 +27,20 @@ MOMO,https://news2strm.myvideo.net.tw/bpk-tv/MOMOTV_OTT/HLS/index.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 三立綜合台,https://z02.ubtvfans.com/live/rx1/2815/af61185ec308b1e29fa3e08203558e15/index.m3u8#https://z02.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8#https://histar.zapi.us.kg/?id=settv-zonghe#https://histar.zapi.us.kg/?id=settv-zonghe
 TVBS精采台,https://z02.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8#https://z02.ubtvfans.com/live/rx3/117/f48d0361091239ad170c5d8185ae50a9/index.m3u8
-Smart知識,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn19
+
+知識,#genre#
 Discovery asia,http://125.227.210.55:8154/VideoInput/play.ts
+DMAX,http://tvnow.best/api/stream/bcandyone216@gmail.com/Love22458!/livetv.epg/dmax.uk.m3u8
+PET CLUB TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8?
+幸福空間居家,http://37.27.111.214:8080/live/26/hls.m3u8
+亞洲旅遊,https://z02.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8#http://37.27.111.214:8080/live/10/hls.m3u8#http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8513/.m3u8
 
 宗教,#genre#
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8?referer=https://go.hoptv.tw
 大愛,https://www.youtube.com/watch?v=oV_i3Hsl_zg#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2,https://www.youtube.com/watch?v=DTNkEm6jaqQ#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-好消息,https://live.streamingfast.net/osmflivech1.m3u8
-好消息2,https://live.streamingfast.net/osmflivech2.m3u8
+好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#https://z02.ubtvfans.com/live/rx1/104/ee07571be25fcadb0ba2b662aef072db/index.m3u8#https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8#https://live.streamingfast.net/osmflivech1.m3u8
+好消息2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8#https://z02.ubtvfans.com/live/rx1/363/4f45e054be8b9d43aef8e866812fd1dd/index.m3u8#https://live.streamingfast.net/osmflivech2.m3u8
 
 兒少,#genre#
 CN卡通,https://z02.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8#http://125.227.210.55:8167/VideoInput/play.ts
