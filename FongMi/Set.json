@@ -3,31 +3,25 @@
     "static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"],
   "lives": [
     {
-      "url": "file://TV/Sports.txt",
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/Sports.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "playerType": 2,
       "name": "【體育】",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },{
-      "url": "file://TV/TW.txt",
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "playerType": 2,
       "referer": "https://www.myvideo.net.tw/",
       "origin": "https://www.myvideo.net.tw",
-      "name": "【台灣】",
+      "name": "【電視節目】",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },{
-      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/YT.txt",
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/YT.txt",
       "playerType": 2,
       "name": "【Yotube上不間斷直播節目】"
     },{
-      "url": "file://TV/HK.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "playerType": 2,
-      "name": "【香港】",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },{
-      "url": "file://TV/News.txt",
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/News.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "playerType": 2,
       "referer": "https://fetfriday.svc.litv.tv",
