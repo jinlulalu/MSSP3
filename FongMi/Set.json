@@ -13,7 +13,6 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "playerType": 2,
       "referer": "https://www.myvideo.net.tw/",
-      "timeout": 20,
       "origin": "https://www.myvideo.net.tw",
       "name": "【電視節目】",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
