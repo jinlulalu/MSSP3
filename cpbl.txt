@@ -1,12 +1,6 @@
 {
   "channelList": [
     {
-      "url": "https://today.line.me/tw/v2/article/peQoQD7",
-      "name": "7/5 (五) 18:30 中信兄弟 vs 統一獅"
-    },{
-      "url": "https://today.line.me/tw/v2/article/yzgXrlQ",
-      "name": "7/5 (五) 18:30 台鋼雄鷹 vs 味全龍"
-    },{
       "url": "https://today.line.me/tw/v2/article/9m9MPgE",
       "name": "7/6 (六) 17:00 中信兄弟 vs 統一獅"
     },{
