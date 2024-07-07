@@ -36,42 +36,42 @@ DAZN2,https://z02.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/ind
 公視3台,https://z02.ubtvfans.com/live/rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
 原住民電視,https://streamipcf2.akamaized.net/live/_definst_/smil:live.smil/playlist.m3u8?referer=https://ipcf.ginnet.cloud
 客家電視,https://z02.ubtvfans.com/live/rx3/76/fa5b120431ea76968b2a7363017a2025/index.m3u8
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8?referer=https://go.hoptv.tw
+大愛電視,https://www.youtube.com/watch?v=oV_i3Hsl_zg#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛二台,https://www.youtube.com/watch?v=DTNkEm6jaqQ#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 綜合,#genre#
-tvN,https://news2strm.myvideo.net.tw/bpk-tv/tvN/HLS/index.m3u8
-MOMO,https://news2strm.myvideo.net.tw/bpk-tv/MOMOTV_OTT/HLS/index.m3u8
-霹靂台灣,https://z02.ubtvfans.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8
-緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
-靖天綜合,https://z02.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8#https://histar.zapi.us.kg/?id=jtzh
+三立綜合台,https://z02.ubtvfans.com/live/rx1/2815/af61185ec308b1e29fa3e08203558e15/index.m3u8#https://z02.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8#https://histar.zapi.us.kg/?id=settv-zonghe#https://histar.zapi.us.kg/?id=settv-zonghe
 靖天資訊,https://z02.ubtvfans.com/live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8#https://histar.zapi.us.kg/?id=jtzx
+靖天綜合,https://z02.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8#https://histar.zapi.us.kg/?id=jtzh
 靖天育樂,https://z02.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8#https://histar.zapi.us.kg/?id=jtyl
-新唐人亞太台,https://www.youtube.com/watch?v=WIhgU_mc05A#http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-年代much,https://z02.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
-民視第一台,http://37.27.111.214:8080/live/4/hls.m3u8#https://histar.zapi.us.kg/?id=ftv-one
-民視台灣台,https://z02.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8#http://37.27.111.214:8080/live/5/hls.m3u8#http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8#https://histar.zapi.us.kg/?id=ftv-tw
 中視經典台,https://z02.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
 中視菁采台,https://z02.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-三立綜合台,https://z02.ubtvfans.com/live/rx1/2815/af61185ec308b1e29fa3e08203558e15/index.m3u8#https://z02.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8#https://histar.zapi.us.kg/?id=settv-zonghe#https://histar.zapi.us.kg/?id=settv-zonghe
 TVBS精采台,https://z02.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8#https://z02.ubtvfans.com/live/rx3/117/f48d0361091239ad170c5d8185ae50a9/index.m3u8
+緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
+東森綜合台,https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8#
+民視第一台,http://37.27.111.214:8080/live/4/hls.m3u8#https://histar.zapi.us.kg/?id=ftv-one
+民視台灣台,https://z02.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8#http://37.27.111.214:8080/live/5/hls.m3u8#http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8#https://histar.zapi.us.kg/?id=ftv-tw
+Nice TV 靖天歡樂,https://z02.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
+新唐人亞太台,https://www.youtube.com/watch?v=WIhgU_mc05A#http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+靖天日本,https://z02.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+Animax,https://z02.ubtvfans.com/live/rx1/59/cb49382c9457a5f3586f9e0635594838/index.m3u8
+i-Fun動漫,https://z02.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8#https://z02.ubtvfans.com/live/rx1/2802/ea90ad21d35b54b28198d9fac02fba8a/index.m3u8
+tvN,https://news2strm.myvideo.net.tw/bpk-tv/tvN/HLS/index.m3u8
+MOMO,https://news2strm.myvideo.net.tw/bpk-tv/MOMOTV_OTT/HLS/index.m3u8
+年代much,https://z02.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
+霹靂台灣,https://z02.ubtvfans.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 
 知識,#genre#
-Discovery asia,http://125.227.210.55:8154/VideoInput/play.ts?referer=
-DMAX,http://tvnow.best/api/stream/bcandyone216@gmail.com/Love22458!/livetv.epg/dmax.uk.m3u8
-PET CLUB TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8?
+KLT-靖天國際,https://z02.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
 幸福空間居家,http://37.27.111.214:8080/live/26/hls.m3u8
 亞洲旅遊,https://z02.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8#http://37.27.111.214:8080/live/10/hls.m3u8#http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8513/.m3u8
 
-宗教,#genre#
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8?referer=https://go.hoptv.tw
-大愛,https://www.youtube.com/watch?v=oV_i3Hsl_zg#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛2,https://www.youtube.com/watch?v=DTNkEm6jaqQ#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#https://z02.ubtvfans.com/live/rx1/104/ee07571be25fcadb0ba2b662aef072db/index.m3u8#https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8#https://live.streamingfast.net/osmflivech1.m3u8
-好消息2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8#https://z02.ubtvfans.com/live/rx1/363/4f45e054be8b9d43aef8e866812fd1dd/index.m3u8#https://live.streamingfast.net/osmflivech2.m3u8
-
 兒少,#genre#
 CN卡通,https://z02.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8#http://125.227.210.55:8167/VideoInput/play.ts
+靖天卡通,https://z02.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 東森幼幼,https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 MOMO親子,https://z02.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8#https://z02.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
 
