@@ -1,4 +1,4 @@
-Muse木棉花-闔家歡,#genre#
+Muse木棉花,#genre#
 中華一番！,https://www.youtube.com/watch?v=2FJcu6qsM2k
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 蠟筆小新TV版,https://www.youtube.com/watch?v=_jP5o1W3eW0
@@ -18,9 +18,7 @@ THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 1989一念間,https://www.youtube.com/watch?v=AYNsSaIX3fo
 小資女孩向前衝,https://www.youtube.com/watch?v=nrdq4Xskufc
 包青天,https://www.youtube.com/watch?v=7vKbx3Ysn-w
-台灣男女真情事件&法中情&台灣夜百合,https://www.youtube.com/watch?v=amxJRN_af20
 我的老師叫小賀,https://www.youtube.com/watch?v=6CQZxYpW9q4
-玫瑰瞳鈴眼&紫色蔓陀蘿&蝴蝶密碼&台灣真女人&台灣風雲&藍色蜘蛛網,https://www.youtube.com/watch?v=Zdz7g3bO8vw
 流氓教授,https://www.youtube.com/watch?v=-oVx8kAJtjw
 神機妙算劉伯溫,https://www.youtube.com/watch?v=9GZNsvhmPXo
 鬥魚&鬥魚2,https://www.youtube.com/watch?v=-9BvmyPIdB0
@@ -52,5 +50,5 @@ MIT台灣誌,https://www.youtube.com/watch?v=9d4ggywa01w
 
 知性,#genre#
 台灣啟示錄,https://www.youtube.com/watch?v=PFeFPjqVi3g
-成都大熊貓繁育研究基地-和花與她的朋友們,https://www.youtube.com/watch?v=lAiycaMhQiI
+成都大熊貓基地-和花與她的朋友們,https://www.youtube.com/watch?v=lAiycaMhQiI
 堪薩斯城動物園-北極熊,https://www.youtube.com/watch?v=BSUnBPvX9K4

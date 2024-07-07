@@ -1,3 +1,31 @@
+新聞,#genre#
+NOWnew-AI主播倪珍播新聞,https://www.youtube.com/watch?v=5zr_12Rl8xg
+TVBS新聞,https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#https://www.youtube.com/watch?v=m_dhMSvUCIc
+三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY#https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA#https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+年代新聞,https://z02.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8#https://z02.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
+東森新聞,https://aka25p.akamaized.net/live/EBCNews/playlist.m3u8#https://www.youtube.com/watch?v=V1p33hqPrUk
+東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
+非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8#https://bsex.serv00.net/Smart.php?id=feifannews_twn
+壹新聞,https://z02.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o#https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+
+體育,#genre#
+緯來體育,http://125.227.210.55:8155/VideoInput/play.ts#http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#https://cloud.yumixiu768.com/tmp/123.m3u8
+ELTA1,https://z02.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8#http://ali.hlspull.yximgs.com/live/huanqiuhklivejejpjxcvjpjojdxcvdjojdjpoedhopjfvxcjhetouhjjvjjjtyy.flv#https://bsex.serv00.net/Smart.php?id=eltasport_twn
+ELTA2,https://z02.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8#http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv#https://bsex.serv00.net/Smart.php?id=eltasport2_twn
+ELTA3,https://z02.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8#https://z02.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8#http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv#https://bsex.serv00.net/Smart.php?id=eltasport3_twn
+ELTA4,https://z02.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
+DAZN1,https://z02.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+DAZN2,https://z02.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+
 闔家,#genre#
 民視,https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
@@ -29,7 +57,7 @@ MOMO,https://news2strm.myvideo.net.tw/bpk-tv/MOMOTV_OTT/HLS/index.m3u8
 TVBS精采台,https://z02.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8#https://z02.ubtvfans.com/live/rx3/117/f48d0361091239ad170c5d8185ae50a9/index.m3u8
 
 知識,#genre#
-Discovery asia,http://125.227.210.55:8154/VideoInput/play.ts
+Discovery asia,http://125.227.210.55:8154/VideoInput/play.ts?referer=
 DMAX,http://tvnow.best/api/stream/bcandyone216@gmail.com/Love22458!/livetv.epg/dmax.uk.m3u8
 PET CLUB TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8?
 幸福空間居家,http://37.27.111.214:8080/live/26/hls.m3u8
