@@ -130,7 +130,7 @@
       "key": "嗶哩",
       "ext": {
         "cookie": "file://TV/www.bilibili.com_cookies.txt",
-        "type": "4K#8K#李一桐#李玟#老高會員#Capsulone"
+        "type": "李一桐#李玟#老高會員#Capsulone"
       },
       "api": "csp_Bili",
       "searchable": 1,
@@ -256,15 +256,9 @@
       "type": 3,
       "name": "推送"
     }],
-  "logo": "https://wx2.sinaimg.cn/large/005RAHfggy1hpvuh8cs94j62s03pcqv802.jpg",
+  "logo": "https://www.gstatic.com/youtube/img/tvfilm/clapperboard_profile.png",
   "rules": [
     {
-      "hosts": [
-        "haiwaikan"],
-      "name": "海外看",
-      "regex": [
-        "8.16","8.1748","10.0099","10.3333","10.85","12.33","16.0599"]
-    },{
       "hosts": [
         "suonizy"],
       "name": "索尼",
