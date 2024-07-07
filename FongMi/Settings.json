@@ -54,6 +54,22 @@
       "type": 3,
       "name": "豆瓣"
     },{
+      "key": "玩偶",
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "type": 3,
+      "name": "玩偶"
+    },{
+      "key": "荐片",
+      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json",
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "playerType": 1,
+      "changeable": 1,
+      "type": 3,
+      "name": "荐片"
+    },{
       "categories": [
         "国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"],
       "key": "量子",
@@ -81,15 +97,6 @@
       "changeable": 1,
       "type": 1,
       "name": "黑木耳"
-    },{
-      "key": "荐片",
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json",
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "playerType": 1,
-      "changeable": 1,
-      "type": 3,
-      "name": "荐片"
     },{
       "key": "6v新版",
       "api": "csp_Xb6v",
@@ -133,7 +140,7 @@
         "type": "李一桐#老高會員#Capsulone"
       },
       "api": "csp_Bili",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "type": 3,
       "name": "嗶哩"
@@ -197,13 +204,6 @@
       "changeable": 0,
       "type": 3,
       "name": "WebDAV"
-    },{
-      "key": "玩偶",
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "type": 3,
-      "name": "玩偶"
     },{
       "key": "七夜",
       "api": "csp_Dovx",
