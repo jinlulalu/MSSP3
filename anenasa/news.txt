@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
       "name": "三立新聞"
     },{
-      "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
+      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
       "name": "三立iNEWS"
     },{
       "url": "https://www.youtube.com/watch?v=quwqlazU-c8",
