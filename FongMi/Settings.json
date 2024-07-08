@@ -42,6 +42,10 @@
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/YT.txt",
       "playerType": 2,
       "name": "【Yotube上不間斷直播節目】"
+    },{
+      "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+      "playerType": 2,
+      "name": "【iptv-org】"
     }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
