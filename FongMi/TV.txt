@@ -1,7 +1,7 @@
 新聞,#genre#
 TVBS新聞,https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY#https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA#https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
