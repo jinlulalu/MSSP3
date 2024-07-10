@@ -28,7 +28,7 @@ DAZN2,https://z02.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/ind
 闔家,#genre#
 民視,https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-中視,http://37.27.111.214:8080/live/7/hls.m3u8
+中視,https://z02.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8#https://z02.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8#http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
 華視,https://z02.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8#https://z02.ubtvfans.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8#http://37.27.111.214:8080/live/8/hls.m3u8
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
@@ -56,7 +56,7 @@ NICETV靖天歡樂台,https://z02.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa19
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 靖天日本台,https://z02.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
 Animax,https://z02.ubtvfans.com/live/rx1/59/cb49382c9457a5f3586f9e0635594838/index.m3u8
-i-Fun動漫,https://z02.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8#https://z02.ubtvfans.com/live/rx1/2802/ea90ad21d35b54b28198d9fac02fba8a/index.m3u8
+I-FUN動漫,https://z02.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8#https://z02.ubtvfans.com/live/rx1/2802/ea90ad21d35b54b28198d9fac02fba8a/index.m3u8
 tvN,https://news2strm.myvideo.net.tw/bpk-tv/tvN/HLS/index.m3u8
 MOMOTV,https://news2strm.myvideo.net.tw/bpk-tv/MOMOTV_OTT/HLS/index.m3u8
 年代MUCH,https://z02.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
