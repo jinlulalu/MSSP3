@@ -1,14 +1,6 @@
 {
   "channelList": [
     {
-      "url": "https://today.line.me/tw/v2/article/MLgpZQV",
-      "name": "7/13 (六) 17:00 統一獅 vs 富邦悍將"
-    },
-    {
-      "url": "https://today.line.me/tw/v2/article/7NnRM8J",
-      "name": "7/14 (日) 17:00 統一獅 vs 富邦悍將"
-    },
-    {
       "url": "https://today.line.me/tw/v2/article/Ya2PZ2N",
       "name": "7/16 (二) 18:30 中信兄弟 vs 富邦悍將"
     },
