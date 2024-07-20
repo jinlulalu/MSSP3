@@ -1,10 +1,6 @@
 {
   "channelList": [
     {
-      "url": "https://www.youtube.com/watch?v=5zr_12Rl8xg",
-      "name": "NOWnew-AI主播倪珍播新聞"
-    },
-    {
       "url": "https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8",
       "header": "Referer:https://fetfriday.svc.litv.tv/",
       "name": "TVBS新聞"
