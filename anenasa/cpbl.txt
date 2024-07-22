@@ -1,9 +1,6 @@
 {
   "channelList": [
     {
-      "url": "https://today.line.me/tw/v2/article/j7G9ejD",
-      "name": "7/21 (日) 14:00 明星對抗賽"
-    },{
       "url": "https://today.line.me/tw/v2/article/2DWRLMP",
       "name": "7/23 (二) 18:30 富邦悍將 vs 味全龍"
     },{
@@ -30,5 +27,101 @@
     },{
       "url": "https://today.line.me/tw/v2/article/7NnR3rr",
       "name": "7/31 (三) 18:30 樂天桃猿 vs 富邦悍將"
+    },{
+      "url": "https://today.line.me/tw/v2/article/wJjXmVE",
+      "name": "8/1 (四) 18:30 樂天桃猿 vs 富邦悍將"
+    },{
+      "url": "https://today.line.me/tw/v2/article/WBYO6JJ",
+      "name": "8/2 (五) 18:30 樂天桃猿 vs 味全龍"
+    },{
+      "url": "https://today.line.me/tw/v2/article/peQMk0w",
+      "name": "8/3 (六) 17:00 樂天桃猿 vs 味全龍"
+    },{
+      "url": "https://today.line.me/tw/v2/article/zNxmwZK",
+      "name": "8/4 (日) 17:00 樂天桃猿 vs 味全龍"
+    },{
+      "url": "https://today.line.me/tw/v2/article/3NnXX2B",
+      "name": "8/6 (二) 18:30 富邦悍將 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/Ya2rr7B",
+      "name": "8/7 (三) 18:30 富邦悍將 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/5ynOOMK",
+      "name": "8/7 (三) 18:30 中信兄弟 vs 味全龍"
+    },{
+      "url": "https://today.line.me/tw/v2/article/0Mn22wp",
+      "name": "8/8 (四) 18:30 中信兄弟 vs 味全龍"
+    },{
+      "url": "https://today.line.me/tw/v2/article/9m9o1NE",
+      "name": "8/9 (五) 18:30 樂天桃猿 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/Gg6jZZy",
+      "name": "8/9 (五) 18:30 味全龍 vs 富邦悍將"
+    },{
+      "url": "https://today.line.me/tw/v2/article/kEMz0QL",
+      "name": "8/10 (六) 17:00 樂天桃猿 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/KwjnQ3R",
+      "name": "8/10 (六) 17:00 味全龍 vs 富邦悍將"
+    },{
+      "url": "https://today.line.me/tw/v2/article/7NnLPvl",
+      "name": "8/11 (日) 17:00 樂天桃猿 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/Vx30Ovy",
+      "name": "8/11 (日) 17:00 味全龍 vs 富邦悍將"
+    },{
+      "url": "https://today.line.me/tw/v2/article/aGjgqB8",
+      "name": "8/14 (三) 18:30 味全龍 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/DRQl8wp",
+      "name": "8/15 (四) 18:30 味全龍 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/wJjoRxr",
+      "name": "8/16 (五) 18:30 富邦悍將 vs 味全龍"
+    },{
+      "url": "https://today.line.me/tw/v2/article/Op9Lwpm",
+      "name": "8/17 (六) 17:00 富邦悍將 vs 味全龍"
+    },{
+      "url": "https://today.line.me/tw/v2/article/2DWQY6a",
+      "name": "8/18 (日) 17:00 富邦悍將 vs 味全龍"
+    },{
+      "url": "https://today.line.me/tw/v2/article/oq2Erx6",
+      "name": "8/20 (二) 18:30 中信兄弟 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/Gg68l85",
+      "name": "8/20 (二) 18:30 台鋼雄鷹 vs 富邦悍將"
+    },{
+      "url": "https://today.line.me/tw/v2/article/3NnJrOZ",
+      "name": "8/21 (三) 18:30 中信兄弟 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/l23WjPv",
+      "name": "8/21 (三) 18:30 台鋼雄鷹 vs 富邦悍將"
+    },{
+      "url": "https://today.line.me/tw/v2/article/rmXPa7w",
+      "name": "8/21 (三) 18:30 樂天桃猿 vs 味全龍"
+    },{
+      "url": "https://today.line.me/tw/v2/article/BEkBR9Q",
+      "name": "8/22 (四) 18:30 樂天桃猿 vs 味全龍"
+    },{
+      "url": "https://today.line.me/tw/v2/article/WBY27XE",
+      "name": "8/23 (五) 18:30 富邦悍將 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/EXJq7Qa",
+      "name": "8/24 (六) 17:00 富邦悍將 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/WBY27jy",
+      "name": "8/25 (日) 17:00 富邦悍將 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/mWY8Yom",
+      "name": "8/30 (五) 18:30 中信兄弟 vs 富邦悍將"
+    },{
+      "url": "https://today.line.me/tw/v2/article/QwLoLQr",
+      "name": "8/30 (五) 18:30 統一獅 vs 味全龍"
+    },{
+      "url": "https://today.line.me/tw/v2/article/Kwjpjr0",
+      "name": "8/31 (六) 17:00 中信兄弟 vs 富邦悍將"
+    },{
+      "url": "https://today.line.me/tw/v2/article/x2wGwmq",
+      "name": "8/31 (六) 17:00 統一獅 vs 味全龍"
     }]
 }
