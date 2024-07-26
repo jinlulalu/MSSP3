@@ -31,13 +31,9 @@
     "static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"],
   "lives": [
     {
-      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/tvlist.m3u",
       "playerType": 2,
-      "referer": "https://fetfriday.svc.litv.tv",
-      "origin": "https://www.myvideo.net.tw",
-      "name": "【體育/新聞/電視節目】",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "【體育/新聞/電視節目】"
     },{
       "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
       "playerType": 2,
