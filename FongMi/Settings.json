@@ -34,6 +34,8 @@
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "playerType": 2,
+      "referer": "",
+      "origin": "",
       "name": "【體育/新聞/電視節目】",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },{
@@ -45,7 +47,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json",
       "api": "csp_Douban",
       "searchable": 1,
       "changeable": 1,
@@ -53,7 +55,7 @@
       "name": "豆瓣"
     },{
       "categories": [
-        "???漫","日??漫","???","???","日本?","?影片","???","??片","?漫片","?作片","喜?片","?情片","科幻片","恐怖片","?情片","??片","台??","香港?","?美?","??片","海外?","泰??","大???","港台??","日???","?美??","?美?漫","港台?漫","海外?漫","体育","足球","?球","网球","斯?克"],
+        "国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"],
       "key": "量子",
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -62,7 +64,7 @@
       "name": "量子"
     },{
       "categories": [
-        "???漫","日??漫","???","???","日本?","?影片","???","??片","?漫片","?作片","喜?片","?情片","科幻片","恐怖片","?情片","??片","香港?","?美?","??片","台??","海外?","泰??","大???","港台??","日???","?美??","?美?漫","港台?漫","海外?漫"],
+        "国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"],
       "key": "非凡",
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -71,7 +73,7 @@
       "name": "非凡"
     },{
       "categories": [
-        "?情","?作","冒?","同性","喜?","奇幻","恐怖","?疑","惊悚","??","?情","犯罪","科幻","???影","歌舞","??","?典","网??影","???","港?","??","日?","泰?","台?","?美?","新??","其他?","????","港台??","????","日本??","?美??","新?泰??","其他??","?美","日本","??","??","港台","古?","虐?","逆?","?疑","神豪","重生","复仇","穿越","甜?","?者"],
+        "剧情","动作","冒险","同性","喜剧","奇幻","恐怖","悬疑","惊悚","灾难","爱情","犯罪","科幻","动画电影","歌舞","战争","经典","网络电影","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","欧美","日本","韩国","国产","港台","古装","虐恋","逆袭","悬疑","神豪","重生","复仇","穿越","甜宠","强者"],
       "key": "黑木耳",
       "api": "https://www.heimuer.tv/api.php/provide/vod",
       "searchable": 1,
@@ -81,7 +83,7 @@
       "name": "黑木耳"
     },{
       "key": "荐片",
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json",
       "api": "csp_Jianpian",
       "searchable": 1,
       "playerType": 1,
@@ -165,7 +167,7 @@
       "name": "異界"
     },{
       "key": "AList",
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
@@ -173,7 +175,7 @@
       "name": "AList"
     },{
       "key": "WebDAV",
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json",
       "api": "csp_WebDAV",
       "searchable": 1,
       "changeable": 0,
@@ -257,7 +259,7 @@
         "news2strm.myvideo.net.tw"],
       "name": "MyVideo",
       "regex": [
-        "#EXTVLCOPT:http-referrer=https://www.myvideo.net.tw/\\r*\\n*#EXTVLCOPT:http-origin=www.myvideo.net.tw"]
+        "#EXTVLCOPT:http-referrer=https://www.myvideo.net.tw/\\r*\\n*#EXTVLCOPT:http-origin=https://www.myvideo.net.tw"]
     },{
       "hosts": [
         "5ddce30eb4b55.streamlock.net"],
