@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="新聞",TVBS新聞
-#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv/
 #EXTVLCOPT:http-origin=https://fetfriday.svc.litv.tv
 https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 group-title="新聞",三立新聞
@@ -16,13 +17,15 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA#https://ythls.armelin.one/channel/UC
 #EXTINF:-1 group-title="新聞",年代新聞
 https://z02.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8#https://z02.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 #EXTINF:-1 group-title="新聞",東森新聞
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv/
 #EXTVLCOPT:http-origin=https://fetfriday.svc.litv.tv
 https://aka25p.akamaized.net/live/EBCNews/playlist.m3u8#https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 group-title="新聞",東森財經新聞
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 #EXTINF:-1 group-title="新聞",非凡新聞
-#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv/
 #EXTVLCOPT:http-origin=https://fetfriday.svc.litv.tv
 https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8#https://bsex.serv00.net/Smart.php?id=feifannews_twn
 #EXTINF:-1 group-title="新聞",壹新聞
@@ -40,24 +43,34 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o#https://ythls.armelin.one/channel/UC
 #EXTINF:-1 group-title="體育",緯來體育
 http://125.227.210.55:8155/VideoInput/play.ts#http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 group-title="體育",愛爾達體育1台
-#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com/
 #EXTVLCOPT:http-origin=https://www.kankanzhibo.com
 https://cdn.ggapk.net/live/tv?id=1566DtGz7oGnQzut8pCPGKJ68NLaeMrTupJY0QBaqJimg-2tJqy11wcjFRD3F32YSTJnUrHWImAVnI8u-93ebxCyYg6RYwTCGm9nZPkmXOBV_EjIY6SAOF3To1-ip97A3Mh_bTWYfGvji5FPRpO2ycZD6X7Airk4BPqqIvxAkxtQ1_1TlQkT&idp=2220w7g-mKimukysTrsey2jkCmgBJ1Fpfr985udWr5Quh_wo3KdnrqfdRw#https://live.yzd.jialiangos.com:4443/live/fhw/188#https://z02.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8#http://ali.hlspull.yximgs.com/live/huanqiuhklivejejpjxcvjpjojdxcvdjojdjpoedhopjfvxcjhetouhjjvjjjtyy.flv#https://bsex.serv00.net/Smart.php?id=eltasport_twn
 #EXTINF:-1 group-title="體育",愛爾達體育2台
-#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com/
 #EXTVLCOPT:http-origin=https://www.kankanzhibo.com
 https://cdn.ggapk.net/live/tv?id=13d54CM31g1qaFk_5VL4Z1FwjkWxhBdMuvTKOYq3yCSgvlsTdFGsWXuPkMrRVD43LCpY-ZCD3SG-7ATOyV59RhpL1cEoyHwKQYr9BHbMFLrVh7QDw3fnCh8GhDMOZzlf_N-wh07J1OH1C_cMrpaPt2uvHTSjLhsDymE7cn-gvqBh-yaLi8NY&idp=2cf7N9v2Tp-tbAb0ERfQHCe5g1Koao-Kj07src1X3REUOcYcUAZgxbCnrw#https://live.yzd.jialiangos.com:4443/live/fhw/189#https://z02.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8#http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv#https://bsex.serv00.net/Smart.php?id=eltasport2_twn
 #EXTINF:-1 group-title="體育",愛爾達體育3台
-#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com/
 #EXTVLCOPT:http-origin=https://www.kankanzhibo.com
 https://cdn.ggapk.net/live/tv?id=d30d5pkQwu8BYIqS_bnOyMf3sgvwbulfYKqcIytBxjUUhrIc6IbdT9_ZSb1Pjre3j-XuKhVq_eyFDHwBniDsGHU7rWFm3CN599GgKYHWNzzrwJ0Mj7PaZMMrP4_890wP0sg8V40Oq6DrbSiYoiOWxDRLW12PUuzQFIqXDEzoJflQg7rEPnpd&idp=7294J8kiHM9M9b0wZg2jocpmAVlNWSWWsp3ZUnv6owAGOcYTALjLH_xa3g#https://live.yzd.jialiangos.com:4443/live/fhw/190#https://z02.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8#https://z02.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8#http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv#https://bsex.serv00.net/Smart.php?id=eltasport3_twn
 #EXTINF:-1 group-title="體育",愛爾達體育4台
-#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com/
 #EXTVLCOPT:http-origin=https://www.kankanzhibo.com
 https://live.yzd.jialiangos.com:4443/live/fhw/14#https://z02.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
 #EXTINF:-1 group-title="體育",DAZN1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com/
+#EXTVLCOPT:http-origin=https://www.kankanzhibo.com
 https://cdn.ggapk.net/live/tv?id=fdf0qTohVksg0f8GZpeKrc3kMwyI1AXKZBRQjllR1xIWZPRxiv0hfTulI-IhgZ43nHbpfSA4FhCVWX-AyVeSfuDNhmoZHSS0hl4L4qGpGwOImCDMe-7-dE2MXUnYUNCth_thh56oBMNCjAKKq8lU1Wh8NJZtvgwIceaqWtB2Uu2e2jmAO-GrVD9W&idp=af3efb5KZ1EFwxJGkmvx1c1_af3ifxV7TM-kgg8KAjjArQ8nJnYXRw8MhA#https://z02.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
 #EXTINF:-1 group-title="體育",DAZN2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com/
+#EXTVLCOPT:http-origin=https://www.kankanzhibo.com
 https://cdn.ggapk.net/live/tv?id=7162LVNSkI3TlBlnPxJ8xmv3F3o7sHSakIi_RZ6Rmd7NnYPbm-92xWTMRkAc5Jjw6u9COsROZqAvt9CRL7lLE4m_9zlKpEwGev0MkOcpPzYnEfscGxJYGgSa6iiq59I4otJIJ4qD4uVojDtKOXxy37FnbfXA6CaNZ-azNO6P8weNyQqKdJUvQo6R&idp=f605uPtXKiSSX1cmYgJwFmrkALixajWYUenefZsNrGqxusXTUrEqPtxUJQ#https://z02.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
 #EXTINF:-1 group-title="闔家",民視
 https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
@@ -74,13 +87,16 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 #EXTINF:-1 group-title="闔家",公視3台
 https://z02.ubtvfans.com/live/rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
 #EXTINF:-1 group-title="闔家",原住民電視
-#EXTVLCOPT:http-referrer=https://ipcf.ginnet.cloud
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ipcf.ginnet.cloud/
 #EXTVLCOPT:http-origin=https://ipcf.ginnet.cloud
 https://streamipcf2.akamaized.net/live/_definst_/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="闔家",客家電視
 https://z02.ubtvfans.com/live/rx3/76/fa5b120431ea76968b2a7363017a2025/index.m3u8
 #EXTINF:-1 group-title="闔家",人間衛視
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 #EXTVLCOPT:http-referrer=https://go.hoptv.tw/
+#EXTVLCOPT:http-origin=https://go.hoptv.tw
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 group-title="闔家",大愛電視
 https://www.youtube.com/watch?v=oV_i3Hsl_zg#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -118,13 +134,17 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 https://z02.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
 #EXTINF:-1 group-title="綜合",Animax
 https://z02.ubtvfans.com/live/rx1/59/cb49382c9457a5f3586f9e0635594838/index.m3u8
-#EXTINF:-1 group-title="綜合",I-FUN動漫
+#EXTINF:-1 group-title="綜合",i-FUN動漫
 https://z02.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8#https://z02.ubtvfans.com/live/rx1/2802/ea90ad21d35b54b28198d9fac02fba8a/index.m3u8
 #EXTINF:-1 group-title="綜合",tvN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.myvideo.net.tw/
+#EXTVLCOPT:http-origin=https://www.myvideo.net.tw
 https://news2strm.myvideo.net.tw/bpk-tv/tvN/HLS/index.m3u8
 #EXTINF:-1 group-title="綜合",MOMOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.myvideo.net.tw/
+#EXTVLCOPT:http-origin=https://www.myvideo.net.tw
 https://news2strm.myvideo.net.tw/bpk-tv/MOMOTV_OTT/HLS/index.m3u8
 #EXTINF:-1 group-title="綜合",年代MUCH
 https://z02.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
