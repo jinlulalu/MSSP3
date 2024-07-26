@@ -36,70 +36,70 @@
       "playerType": 2,
       "referer": "https://fetfriday.svc.litv.tv",
       "origin": "https://www.myvideo.net.tw",
-      "name": "¡iÅé¨|/·s»D/¹qµø¸`¥Ø¡j",
+      "name": "ã€é«”è‚²/æ–°è/é›»è¦–ç¯€ç›®ã€‘",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },{
       "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
       "playerType": 2,
-      "name": "¡iiptv-org¡j"
+      "name": "ã€iptv-orgã€‘"
     }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
     {
-      "key": "¨§Ã¤",
+      "key": "è±†ç“£",
       "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json",
       "api": "csp_Douban",
       "searchable": 1,
       "changeable": 1,
       "type": 3,
-      "name": "¨§Ã¤"
+      "name": "è±†ç“£"
     },{
       "categories": [
-        "???º©","¤é??º©","???","???","¤é¥»?","?¼v¤ù","???","??¤ù","?º©¤ù","?§@¤ù","³ß?¤ù","?±¡¤ù","¬ì¤Û¤ù","®£©Æ¤ù","?±¡¤ù","??¤ù","¥x??","­»´ä?","?¬ü?","??¤ù","®ü¥~?","®õ??","¤j???","´ä¥x??","¤é???","?¬ü??","?¬ü?º©","´ä¥x?º©","®ü¥~?º©","Ê^¨|","¨¬²y","?²y","ÊI²y","´µ?§J"],
-      "key": "¶q¤l",
+        "???æ¼«","æ—¥??æ¼«","???","???","æ—¥æœ¬?","?å½±ç‰‡","???","??ç‰‡","?æ¼«ç‰‡","?ä½œç‰‡","å–œ?ç‰‡","?æƒ…ç‰‡","ç§‘å¹»ç‰‡","ææ€–ç‰‡","?æƒ…ç‰‡","??ç‰‡","å°??","é¦™æ¸¯?","?ç¾?","??ç‰‡","æµ·å¤–?","æ³°??","å¤§???","æ¸¯å°??","æ—¥???","?ç¾??","?ç¾?æ¼«","æ¸¯å°?æ¼«","æµ·å¤–?æ¼«","ä½“è‚²","è¶³çƒ","?çƒ","ç½‘çƒ","æ–¯?å…‹"],
+      "key": "é‡å­",
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
       "type": 0,
-      "name": "¶q¤l"
+      "name": "é‡å­"
     },{
       "categories": [
-        "???º©","¤é??º©","???","???","¤é¥»?","?¼v¤ù","???","??¤ù","?º©¤ù","?§@¤ù","³ß?¤ù","?±¡¤ù","¬ì¤Û¤ù","®£©Æ¤ù","?±¡¤ù","??¤ù","­»´ä?","?¬ü?","??¤ù","¥x??","®ü¥~?","®õ??","¤j???","´ä¥x??","¤é???","?¬ü??","?¬ü?º©","´ä¥x?º©","®ü¥~?º©"],
-      "key": "«D¤Z",
+        "???æ¼«","æ—¥??æ¼«","???","???","æ—¥æœ¬?","?å½±ç‰‡","???","??ç‰‡","?æ¼«ç‰‡","?ä½œç‰‡","å–œ?ç‰‡","?æƒ…ç‰‡","ç§‘å¹»ç‰‡","ææ€–ç‰‡","?æƒ…ç‰‡","??ç‰‡","é¦™æ¸¯?","?ç¾?","??ç‰‡","å°??","æµ·å¤–?","æ³°??","å¤§???","æ¸¯å°??","æ—¥???","?ç¾??","?ç¾?æ¼«","æ¸¯å°?æ¼«","æµ·å¤–?æ¼«"],
+      "key": "éå‡¡",
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
       "type": 0,
-      "name": "«D¤Z"
+      "name": "éå‡¡"
     },{
       "categories": [
-        "?±¡","?§@","«_?","¦P©Ê","³ß?","©_¤Û","®£©Æ","?ºÃ","Õa®ª","??","?±¡","¥Ç¸o","¬ì¤Û","???¼v","ºq»R","??","?¨å","ÊI??¼v","???","´ä?","??","¤é?","®õ?","¥x?","?¬ü?","·s??","¨ä¥L?","????","´ä¥x??","????","¤é¥»??","?¬ü??","·s?®õ??","¨ä¥L??","?¬ü","¤é¥»","??","??","´ä¥x","¥j?","­h?","°f?","?ºÃ","¯«»¨","­«¥Í","Î`¤³","¬ï¶V","²¢?","?ªÌ"],
-      "key": "¶Â¤ì¦Õ",
+        "?æƒ…","?ä½œ","å†’?","åŒæ€§","å–œ?","å¥‡å¹»","ææ€–","?ç–‘","æƒŠæ‚š","??","?æƒ…","çŠ¯ç½ª","ç§‘å¹»","???å½±","æ­Œèˆ","??","?å…¸","ç½‘??å½±","???","æ¸¯?","??","æ—¥?","æ³°?","å°?","?ç¾?","æ–°??","å…¶ä»–?","????","æ¸¯å°??","????","æ—¥æœ¬??","?ç¾??","æ–°?æ³°??","å…¶ä»–??","?ç¾","æ—¥æœ¬","??","??","æ¸¯å°","å¤?","è™?","é€†?","?ç–‘","ç¥è±ª","é‡ç”Ÿ","å¤ä»‡","ç©¿è¶Š","ç”œ?","?è€…"],
+      "key": "é»‘æœ¨è€³",
       "api": "https://www.heimuer.tv/api.php/provide/vod",
       "searchable": 1,
       "playUrl": "https://player.heimuer.tv/index.html?url=",
       "changeable": 1,
       "type": 1,
-      "name": "¶Â¤ì¦Õ"
+      "name": "é»‘æœ¨è€³"
     },{
-      "key": "¯ò¤ù",
+      "key": "èç‰‡",
       "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json",
       "api": "csp_Jianpian",
       "searchable": 1,
       "playerType": 1,
       "changeable": 1,
       "type": 3,
-      "name": "¯ò¤ù"
+      "name": "èç‰‡"
     },{
-      "key": "6v·sª©",
+      "key": "6væ–°ç‰ˆ",
       "api": "csp_Xb6v",
       "searchable": 1,
       "changeable": 0,
       "timeout": 60,
       "type": 3,
-      "name": "·sª©"
+      "name": "æ–°ç‰ˆ"
     },{
-      "key": "¬İ²y",
+      "key": "çœ‹çƒ",
       "api": "csp_Kanqiu",
       "searchable": 1,
       "changeable": 0,
@@ -107,7 +107,7 @@
         "type": "list"
       },
       "type": 3,
-      "name": "¬İ²y"
+      "name": "çœ‹çƒ"
     },{
       "key": "JustLive",
       "api": "csp_JustLive",
@@ -125,46 +125,46 @@
         "ratio": 1.597
       },
       "type": 3,
-      "name": "»Åª¯"
+      "name": "é…·ç‹—"
     },{
-      "key": "¹Í­ù",
+      "key": "å—¶å“©",
       "ext": {
         "cookie": "",
-        "type": "§õ¤@®ä#§õª³#¦Ñ°ª·|­û#Capsulone"
+        "type": "æä¸€æ¡#æçŸ#è€é«˜æœƒå“¡#Capsulone"
       },
       "api": "csp_Bili",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "¹Í­ù"
+      "name": "å—¶å“©"
     },{
-      "key": "¬P¬P",
+      "key": "æ˜Ÿæ˜Ÿ",
       "api": "csp_Star",
       "searchable": 1,
       "changeable": 1,
       "type": 3,
-      "name": "¬P¬PVPN"
+      "name": "æ˜Ÿæ˜ŸVPN"
     },{
-      "key": "Äåªá",
+      "key": "æ«»èŠ±",
       "api": "csp_Ying",
       "searchable": 1,
       "changeable": 1,
       "type": 3,
-      "name": "Äåªá"
+      "name": "æ«»èŠ±"
     },{
-      "key": "¤Ú¤h",
+      "key": "å·´å£«",
       "api": "csp_Dm84",
       "searchable": 1,
       "changeable": 1,
       "type": 3,
-      "name": "¤Ú¤h"
+      "name": "å·´å£«"
     },{
-      "key": "²§¬É",
+      "key": "ç•°ç•Œ",
       "api": "csp_Ysj",
       "searchable": 1,
       "changeable": 1,
       "type": 3,
-      "name": "²§¬É"
+      "name": "ç•°ç•Œ"
     },{
       "key": "AList",
       "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
@@ -182,55 +182,55 @@
       "type": 3,
       "name": "WebDAV"
     },{
-      "key": "ª±°¸",
+      "key": "ç©å¶",
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "ª±°¸"
+      "name": "ç©å¶"
     },{
-      "key": "¤C©]",
+      "key": "ä¸ƒå¤œ",
       "api": "csp_Dovx",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "¤C©]"
+      "name": "ä¸ƒå¤œ"
     },{
-      "key": "¶³·j",
+      "key": "é›²æœ",
       "api": "csp_UpYun",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "¶³·j"
+      "name": "é›²æœ"
     },{
-      "key": "½L·j",
+      "key": "ç›¤æœ",
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "½L·j"
+      "name": "ç›¤æœ"
     },{
-      "key": "½L·j¯Á",
+      "key": "ç›¤æœç´¢",
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "½L·j¯Á"
+      "name": "ç›¤æœç´¢"
     },{
-      "key": "§ä¸ê·½",
-      "ext": "¼vµø¤Ñ¤U²Ä¤@$$$test2$$$test2",
+      "key": "æ‰¾è³‡æº",
+      "ext": "å½±è¦–å¤©ä¸‹ç¬¬ä¸€$$$test2$$$test2",
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "§ä¸ê·½"
+      "name": "æ‰¾è³‡æº"
     },{
-      "key": "¥»¦a",
+      "key": "æœ¬åœ°",
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
       "type": 3,
-      "name": "¥»¦a"
+      "name": "æœ¬åœ°"
     },{
       "key": "push_agent",
       "api": "csp_Push",
@@ -238,7 +238,7 @@
       "changeable": 0,
       "timeout": 60,
       "type": 3,
-      "name": "±À°e"
+      "name": "æ¨é€"
     }],
   "logo": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/logo.jpg",
   "rules": [
@@ -249,61 +249,61 @@
     },{
       "hosts": [
         "haiwaikan"],
-      "name": "®ü¥~¬İ",
+      "name": "æµ·å¤–çœ‹",
       "regex": [
         "8.16","8.1748","10.0099","10.3333","10.85","12.33","16.0599"]
     },{
       "hosts": [
         "suonizy"],
-      "name": "¯Á¥§",
+      "name": "ç´¢å°¼",
       "regex": [
         "15.1666","15.2666"]
     },{
       "hosts": [
         "bfzy"],
-      "name": "¼É­·",
+      "name": "æš´é¢¨",
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
     },{
       "hosts": [
         "aws.ulivetv.net"],
-      "name": "¬P¬P",
+      "name": "æ˜Ÿæ˜Ÿ",
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
     },{
       "hosts": [
         "vip.lz","hd.lz","v.cdnlz"],
-      "name": "¶q¤l",
+      "name": "é‡å­",
       "regex": [
         "18.5333"]
     },{
       "hosts": [
         "vip.ffzy","hd.ffzy"],
-      "name": "«D¤Z",
+      "name": "éå‡¡",
       "regex": [
         "25.1"]
     },{
       "hosts": [
         "huoshan.com"],
-      "name": "¤õ¤s¶å±´",
+      "name": "ç«å±±å—…æ¢",
       "regex": [
         "item_id="]
     },{
       "hosts": [
         "douyin.com"],
-      "name": "§İ­µ¶å±´",
+      "name": "æŠ–éŸ³å—…æ¢",
       "regex": [
         "is_play_url="]
     },{
       "hosts": [
         "toutiaovod.com"],
-      "name": "¹A¥Á¶å±´",
+      "name": "è¾²æ°‘å—…æ¢",
       "regex": [
         "video/tos/cn"]
     },{
       "hosts": [
         "api.52wyb.com"],
-      "name": "¤C·s¶å±´",
+      "name": "ä¸ƒæ–°å—…æ¢",
       "regex": [
         "m3u8?pt=m3u8"]
     },{
@@ -311,12 +311,12 @@
         "document.getElementsByClassName('vjs-big-play-button')[0].click()"],
       "hosts": [
         "yeslivetv.com"],
-      "name": "©]¥«ÂIÀ»"
+      "name": "å¤œå¸‚é»æ“Š"
     },{
       "script": [
         "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"],
       "hosts": [
         "www.maolvys.com"],
-      "name": "¤òÆjÂIÀ»"
+      "name": "æ¯›é©¢é»æ“Š"
     }]
 }
