@@ -1,53 +1,34 @@
 {
-  "wallpaper": "http://img.fongmi.eu.org",
+  "wallpaper": "https://img.fongmi.eu.org",
   "doh": [
     {
       "url": "https://dns.google/dns-query",
       "ips": [
-        "8.8.4.4",
-        "8.8.8.8"
-      ],
+        "8.8.4.4","8.8.8.8"],
       "name": "Google"
-    },
-    {
+    },{
       "url": "https://cloudflare-dns.com/dns-query",
       "ips": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-      ],
+        "1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],
       "name": "Cloudflare"
-    },
-    {
+    },{
       "url": "https://dns.adguard.com/dns-query",
       "ips": [
-        "94.140.14.140",
-        "94.140.14.141"
-      ],
+        "94.140.14.140","94.140.14.141"],
       "name": "AdGuard"
-    },
-    {
+    },{
       "url": "https://resolver2.dns.watch/dns-query",
       "ips": [
-        "84.200.69.80",
-        "84.200.70.40"
-      ],
+        "84.200.69.80","84.200.70.40"],
       "name": "DNSWatch"
-    },
-    {
+    },{
       "url": "https://dns.quad9.net/dns-quer",
       "ips": [
-        "9.9.9.9",
-        "149.112.112.112"
-      ],
+        "9.9.9.9","149.112.112.112"],
       "name": "Quad9"
-    }
-  ],
+    }],
   "ads": [
-    "static-mozai.4gtv.tv",
-    "s3t3d2y8.afcdn.net"
-  ],
+    "static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"],
   "lives": [
     {
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
@@ -55,195 +36,70 @@
       "playerType": 2,
       "referer": "https://fetfriday.svc.litv.tv",
       "origin": "https://www.myvideo.net.tw",
-      "name": "ã€é«”è‚²/æ–°è/é›»è¦–ç¯€ç›®ã€‘",
+      "name": "¡iÅé¨|/·s»D/¹qµø¸`¥Ø¡j",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/YT.txt",
+    },{
+      "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
       "playerType": 2,
-      "name": "ã€Yotubeä¸Šä¸é–“æ–·ç›´æ’­ç¯€ç›®ã€‘"
-    },
-    {
-      "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
-      "playerType": 2,
-      "name": "ã€iptv-orgã€‘"
-    }
-  ],
+      "name": "¡iiptv-org¡j"
+    }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
     {
-      "key": "è±†ç“£",
+      "key": "¨§Ã¤",
       "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json",
       "api": "csp_Douban",
       "searchable": 1,
       "changeable": 1,
       "type": 3,
-      "name": "è±†ç“£"
-    },
-    {
+      "name": "¨§Ã¤"
+    },{
       "categories": [
-        "å›½äº§åŠ¨æ¼«",
-        "æ—¥éŸ©åŠ¨æ¼«",
-        "å›½äº§å‰§",
-        "éŸ©å›½å‰§",
-        "æ—¥æœ¬å‰§",
-        "ç”µå½±ç‰‡",
-        "è¿ç»­å‰§",
-        "ç»¼è‰ºç‰‡",
-        "åŠ¨æ¼«ç‰‡",
-        "åŠ¨ä½œç‰‡",
-        "å–œå‰§ç‰‡",
-        "çˆ±æƒ…ç‰‡",
-        "ç§‘å¹»ç‰‡",
-        "ææ€–ç‰‡",
-        "å‰§æƒ…ç‰‡",
-        "æˆ˜äº‰ç‰‡",
-        "å°æ¹¾å‰§",
-        "é¦™æ¸¯å‰§",
-        "æ¬§ç¾å‰§",
-        "è®°å½•ç‰‡",
-        "æµ·å¤–å‰§",
-        "æ³°å›½å‰§",
-        "å¤§é™†ç»¼è‰º",
-        "æ¸¯å°ç»¼è‰º",
-        "æ—¥éŸ©ç»¼è‰º",
-        "æ¬§ç¾ç»¼è‰º",
-        "æ¬§ç¾åŠ¨æ¼«",
-        "æ¸¯å°åŠ¨æ¼«",
-        "æµ·å¤–åŠ¨æ¼«",
-        "ä½“è‚²",
-        "è¶³çƒ",
-        "ç¯®çƒ",
-        "ç½‘çƒ",
-        "æ–¯è¯ºå…‹"
-      ],
-      "key": "é‡å­",
+        "???º©","¤é??º©","???","???","¤é¥»?","?¼v¤ù","???","??¤ù","?º©¤ù","?§@¤ù","³ß?¤ù","?±¡¤ù","¬ì¤Û¤ù","®£©Æ¤ù","?±¡¤ù","??¤ù","¥x??","­»´ä?","?¬ü?","??¤ù","®ü¥~?","®õ??","¤j???","´ä¥x??","¤é???","?¬ü??","?¬ü?º©","´ä¥x?º©","®ü¥~?º©","Ê^¨|","¨¬²y","?²y","ÊI²y","´µ?§J"],
+      "key": "¶q¤l",
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
       "type": 0,
-      "name": "é‡å­"
-    },
-    {
+      "name": "¶q¤l"
+    },{
       "categories": [
-        "å›½äº§åŠ¨æ¼«",
-        "æ—¥éŸ©åŠ¨æ¼«",
-        "å›½äº§å‰§",
-        "éŸ©å›½å‰§",
-        "æ—¥æœ¬å‰§",
-        "ç”µå½±ç‰‡",
-        "è¿ç»­å‰§",
-        "ç»¼è‰ºç‰‡",
-        "åŠ¨æ¼«ç‰‡",
-        "åŠ¨ä½œç‰‡",
-        "å–œå‰§ç‰‡",
-        "çˆ±æƒ…ç‰‡",
-        "ç§‘å¹»ç‰‡",
-        "ææ€–ç‰‡",
-        "å‰§æƒ…ç‰‡",
-        "æˆ˜äº‰ç‰‡",
-        "é¦™æ¸¯å‰§",
-        "æ¬§ç¾å‰§",
-        "è®°å½•ç‰‡",
-        "å°æ¹¾å‰§",
-        "æµ·å¤–å‰§",
-        "æ³°å›½å‰§",
-        "å¤§é™†ç»¼è‰º",
-        "æ¸¯å°ç»¼è‰º",
-        "æ—¥éŸ©ç»¼è‰º",
-        "æ¬§ç¾ç»¼è‰º",
-        "æ¬§ç¾åŠ¨æ¼«",
-        "æ¸¯å°åŠ¨æ¼«",
-        "æµ·å¤–åŠ¨æ¼«"
-      ],
-      "key": "éå‡¡",
+        "???º©","¤é??º©","???","???","¤é¥»?","?¼v¤ù","???","??¤ù","?º©¤ù","?§@¤ù","³ß?¤ù","?±¡¤ù","¬ì¤Û¤ù","®£©Æ¤ù","?±¡¤ù","??¤ù","­»´ä?","?¬ü?","??¤ù","¥x??","®ü¥~?","®õ??","¤j???","´ä¥x??","¤é???","?¬ü??","?¬ü?º©","´ä¥x?º©","®ü¥~?º©"],
+      "key": "«D¤Z",
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
       "type": 0,
-      "name": "éå‡¡"
-    },
-    {
+      "name": "«D¤Z"
+    },{
       "categories": [
-        "å‰§æƒ…",
-        "åŠ¨ä½œ",
-        "å†’é™©",
-        "åŒæ€§",
-        "å–œå‰§",
-        "å¥‡å¹»",
-        "ææ€–",
-        "æ‚¬ç–‘",
-        "æƒŠæ‚š",
-        "ç¾éš¾",
-        "çˆ±æƒ…",
-        "çŠ¯ç½ª",
-        "ç§‘å¹»",
-        "åŠ¨ç”»ç”µå½±",
-        "æ­Œèˆ",
-        "æˆ˜äº‰",
-        "ç»å…¸",
-        "ç½‘ç»œç”µå½±",
-        "å›½äº§å‰§",
-        "æ¸¯å‰§",
-        "éŸ©å‰§",
-        "æ—¥å‰§",
-        "æ³°å‰§",
-        "å°å‰§",
-        "æ¬§ç¾å‰§",
-        "æ–°é©¬å‰§",
-        "å…¶ä»–å‰§",
-        "å›½äº§ç»¼è‰º",
-        "æ¸¯å°ç»¼è‰º",
-        "éŸ©å›½ç»¼è‰º",
-        "æ—¥æœ¬ç»¼è‰º",
-        "æ¬§ç¾ç»¼è‰º",
-        "æ–°é©¬æ³°ç»¼è‰º",
-        "å…¶ä»–ç»¼è‰º",
-        "æ¬§ç¾",
-        "æ—¥æœ¬",
-        "éŸ©å›½",
-        "å›½äº§",
-        "æ¸¯å°",
-        "å¤è£…",
-        "è™æ‹",
-        "é€†è¢­",
-        "æ‚¬ç–‘",
-        "ç¥è±ª",
-        "é‡ç”Ÿ",
-        "å¤ä»‡",
-        "ç©¿è¶Š",
-        "ç”œå® ",
-        "å¼ºè€…"
-      ],
-      "key": "é»‘æœ¨è€³",
+        "?±¡","?§@","«_?","¦P©Ê","³ß?","©_¤Û","®£©Æ","?ºÃ","Õa®ª","??","?±¡","¥Ç¸o","¬ì¤Û","???¼v","ºq»R","??","?¨å","ÊI??¼v","???","´ä?","??","¤é?","®õ?","¥x?","?¬ü?","·s??","¨ä¥L?","????","´ä¥x??","????","¤é¥»??","?¬ü??","·s?®õ??","¨ä¥L??","?¬ü","¤é¥»","??","??","´ä¥x","¥j?","­h?","°f?","?ºÃ","¯«»¨","­«¥Í","Î`¤³","¬ï¶V","²¢?","?ªÌ"],
+      "key": "¶Â¤ì¦Õ",
       "api": "https://www.heimuer.tv/api.php/provide/vod",
       "searchable": 1,
       "playUrl": "https://player.heimuer.tv/index.html?url=",
       "changeable": 1,
       "type": 1,
-      "name": "é»‘æœ¨è€³"
-    },
-    {
-      "key": "èç‰‡",
+      "name": "¶Â¤ì¦Õ"
+    },{
+      "key": "¯ò¤ù",
       "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json",
       "api": "csp_Jianpian",
       "searchable": 1,
       "playerType": 1,
       "changeable": 1,
       "type": 3,
-      "name": "èç‰‡"
-    },
-    {
-      "key": "6væ–°ç‰ˆ",
+      "name": "¯ò¤ù"
+    },{
+      "key": "6v·sª©",
       "api": "csp_Xb6v",
       "searchable": 1,
       "changeable": 0,
       "timeout": 60,
       "type": 3,
-      "name": "æ–°ç‰ˆ"
-    },
-    {
-      "key": "çœ‹çƒ",
+      "name": "·sª©"
+    },{
+      "key": "¬İ²y",
       "api": "csp_Kanqiu",
       "searchable": 1,
       "changeable": 0,
@@ -251,17 +107,15 @@
         "type": "list"
       },
       "type": 3,
-      "name": "çœ‹çƒ"
-    },
-    {
+      "name": "¬İ²y"
+    },{
       "key": "JustLive",
       "api": "csp_JustLive",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
       "name": "JustLive"
-    },
-    {
+    },{
       "key": "csp_Kugou",
       "api": "csp_Kugou",
       "searchable": 1,
@@ -271,103 +125,47 @@
         "ratio": 1.597
       },
       "type": 3,
-      "name": "é…·ç‹—"
-    },
-    {
-      "key": "å—¶å“©",
+      "name": "»Åª¯"
+    },{
+      "key": "¹Í­ù",
       "ext": {
-        "cookie": "file://TV/cookies.txt",
-        "type": "æä¸€æ¡#æçŸ#è€é«˜æœƒå“¡#Capsulone"
+        "cookie": "",
+        "type": "§õ¤@®ä#§õª³#¦Ñ°ª·|­û#Capsulone"
       },
       "api": "csp_Bili",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "å—¶å“©"
-    },
-    {
-      "key": "æ³¥å·´",
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1,
-      "type": 3,
-      "name": "æ³¥å·´VPN"
-    },
-    {
-      "key": "æ˜Ÿæ˜Ÿ",
+      "name": "¹Í­ù"
+    },{
+      "key": "¬P¬P",
       "api": "csp_Star",
       "searchable": 1,
       "changeable": 1,
       "type": 3,
-      "name": "æ˜Ÿæ˜ŸVPN"
-    },
-    {
-      "categories": [
-        "æ—¥æœ¬åŠ¨æ¼«",
-        "å›½äº§åŠ¨æ¼«",
-        "æ¬§ç¾åŠ¨æ¼«",
-        "å›½äº§å‰§",
-        "éŸ©å‰§",
-        "æ—¥å‰§",
-        "å°å‰§",
-        "æ³°å‰§",
-        "æ¸¯å‰§",
-        "æ¬§ç¾å‰§",
-        "åŠ¨ç”»ç”µå½±",
-        "éŸ©å›½ç»¼è‰º",
-        "å›½äº§ç»¼è‰º",
-        "æ—¥æœ¬ç»¼è‰º",
-        "æ¬§ç¾ç»¼è‰º",
-        "å†’é™©ç‰‡",
-        "å‰§æƒ…ç‰‡",
-        "åŠ¨ä½œç‰‡",
-        "åŒæ€§ç‰‡",
-        "å–œå‰§ç‰‡",
-        "å¥‡å¹»ç‰‡",
-        "ææ€–ç‰‡",
-        "æ‚¬ç–‘ç‰‡",
-        "æƒŠæ‚šç‰‡",
-        "æˆ˜äº‰ç‰‡",
-        "æ­Œèˆç‰‡",
-        "ç¾éš¾ç‰‡",
-        "çˆ±æƒ…ç‰‡",
-        "çŠ¯ç½ªç‰‡",
-        "ç§‘å¹»ç‰‡",
-        "çºªå½•ç‰‡",
-        "ç»å…¸ç‰‡"
-      ],
-      "key": "haiwaikan",
-      "api": "https://haiwaikan.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1,
-      "type": 1,
-      "name": "æµ·å¤–çœ‹VPN"
-    },
-    {
-      "key": "æ«»èŠ±",
+      "name": "¬P¬PVPN"
+    },{
+      "key": "Äåªá",
       "api": "csp_Ying",
       "searchable": 1,
       "changeable": 1,
       "type": 3,
-      "name": "æ«»èŠ±"
-    },
-    {
-      "key": "å·´å£«",
+      "name": "Äåªá"
+    },{
+      "key": "¤Ú¤h",
       "api": "csp_Dm84",
       "searchable": 1,
       "changeable": 1,
       "type": 3,
-      "name": "å·´å£«"
-    },
-    {
-      "key": "ç•°ç•Œ",
+      "name": "¤Ú¤h"
+    },{
+      "key": "²§¬É",
       "api": "csp_Ysj",
       "searchable": 1,
       "changeable": 1,
       "type": 3,
-      "name": "ç•°ç•Œ"
-    },
-    {
+      "name": "²§¬É"
+    },{
       "key": "AList",
       "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
       "api": "csp_AList",
@@ -375,8 +173,7 @@
       "changeable": 0,
       "type": 3,
       "name": "AList"
-    },
-    {
+    },{
       "key": "WebDAV",
       "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json",
       "api": "csp_WebDAV",
@@ -384,178 +181,142 @@
       "changeable": 0,
       "type": 3,
       "name": "WebDAV"
-    },
-    {
-      "key": "ç©å¶",
+    },{
+      "key": "ª±°¸",
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "ç©å¶"
-    },
-    {
-      "key": "ä¸ƒå¤œ",
+      "name": "ª±°¸"
+    },{
+      "key": "¤C©]",
       "api": "csp_Dovx",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "ä¸ƒå¤œ"
-    },
-    {
-      "key": "é›²æœ",
+      "name": "¤C©]"
+    },{
+      "key": "¶³·j",
       "api": "csp_UpYun",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "é›²æœ"
-    },
-    {
-      "key": "ç›¤æœ",
+      "name": "¶³·j"
+    },{
+      "key": "½L·j",
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "ç›¤æœ"
-    },
-    {
-      "key": "ç›¤æœç´¢",
+      "name": "½L·j"
+    },{
+      "key": "½L·j¯Á",
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "ç›¤æœç´¢"
-    },
-    {
-      "key": "æ‰¾è³‡æº",
-      "ext": "å½±è¦–å¤©ä¸‹ç¬¬ä¸€$$$test2$$$test2",
+      "name": "½L·j¯Á"
+    },{
+      "key": "§ä¸ê·½",
+      "ext": "¼vµø¤Ñ¤U²Ä¤@$$$test2$$$test2",
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
       "type": 3,
-      "name": "æ‰¾è³‡æº"
-    },
-    {
-      "key": "æœ¬åœ°",
+      "name": "§ä¸ê·½"
+    },{
+      "key": "¥»¦a",
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
       "type": 3,
-      "name": "æœ¬åœ°"
-    },
-    {
+      "name": "¥»¦a"
+    },{
       "key": "push_agent",
       "api": "csp_Push",
       "searchable": 0,
       "changeable": 0,
       "timeout": 60,
       "type": 3,
-      "name": "æ¨é€"
-    }
-  ],
-  "logo": "https://i.scdn.co/image/ab6761610000e5eb8aa87cd0ed46440d0b1765e9",
+      "name": "±À°e"
+    }],
+  "logo": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/logo.jpg",
   "rules": [
     {
       "hosts": [
-        "suonizy"
-      ],
-      "name": "ç´¢å°¼",
-      "regex": [
-        "15.1666",
-        "15.2666"
-      ]
-    },
-    {
+        "raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"],
+      "name": "proxy"
+    },{
       "hosts": [
-        "bfzy"
-      ],
-      "name": "æš´é¢¨",
+        "haiwaikan"],
+      "name": "®ü¥~¬İ",
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
+        "8.16","8.1748","10.0099","10.3333","10.85","12.33","16.0599"]
+    },{
       "hosts": [
-        "aws.ulivetv.net"
-      ],
-      "name": "æ˜Ÿæ˜Ÿ",
+        "suonizy"],
+      "name": "¯Á¥§",
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
+        "15.1666","15.2666"]
+    },{
       "hosts": [
-        "vip.lz",
-        "hd.lz",
-        "v.cdnlz"
-      ],
-      "name": "é‡å­",
+        "bfzy"],
+      "name": "¼É­·",
       "regex": [
-        "18.5333"
-      ]
-    },
-    {
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
+    },{
       "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "name": "éå‡¡",
+        "aws.ulivetv.net"],
+      "name": "¬P¬P",
       "regex": [
-        "25.1"
-      ]
-    },
-    {
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
+    },{
       "hosts": [
-        "huoshan.com"
-      ],
-      "name": "ç«å±±å—…æ¢",
+        "vip.lz","hd.lz","v.cdnlz"],
+      "name": "¶q¤l",
       "regex": [
-        "item_id="
-      ]
-    },
-    {
+        "18.5333"]
+    },{
       "hosts": [
-        "douyin.com"
-      ],
-      "name": "æŠ–éŸ³å—…æ¢",
+        "vip.ffzy","hd.ffzy"],
+      "name": "«D¤Z",
       "regex": [
-        "is_play_url="
-      ]
-    },
-    {
+        "25.1"]
+    },{
       "hosts": [
-        "toutiaovod.com"
-      ],
-      "name": "è¾²æ°‘å—…æ¢",
+        "huoshan.com"],
+      "name": "¤õ¤s¶å±´",
       "regex": [
-        "video/tos/cn"
-      ]
-    },
-    {
+        "item_id="]
+    },{
       "hosts": [
-        "api.52wyb.com"
-      ],
-      "name": "ä¸ƒæ–°å—…æ¢",
+        "douyin.com"],
+      "name": "§İ­µ¶å±´",
       "regex": [
-        "m3u8?pt=m3u8"
-      ]
-    },
-    {
+        "is_play_url="]
+    },{
+      "hosts": [
+        "toutiaovod.com"],
+      "name": "¹A¥Á¶å±´",
+      "regex": [
+        "video/tos/cn"]
+    },{
+      "hosts": [
+        "api.52wyb.com"],
+      "name": "¤C·s¶å±´",
+      "regex": [
+        "m3u8?pt=m3u8"]
+    },{
       "script": [
-        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
-      ],
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"],
       "hosts": [
-        "yeslivetv.com"
-      ],
-      "name": "å¤œå¸‚é»æ“Š"
-    },
-    {
+        "yeslivetv.com"],
+      "name": "©]¥«ÂIÀ»"
+    },{
       "script": [
-        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
-      ],
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"],
       "hosts": [
-        "www.maolvys.com"
-      ],
-      "name": "æ¯›é©¢é»æ“Š"
-    }
-  ]
+        "www.maolvys.com"],
+      "name": "¤òÆjÂIÀ»"
+    }]
 }
