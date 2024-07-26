@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="新聞",TVBS新聞
-#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv/
+#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv
 #EXTVLCOPT:http-origin=https://fetfriday.svc.litv.tv
 https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 group-title="新聞",三立新聞
@@ -22,7 +22,7 @@ https://aka25p.akamaized.net/live/EBCNews/playlist.m3u8#https://www.youtube.com/
 #EXTINF:-1 group-title="新聞",東森財經新聞
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 #EXTINF:-1 group-title="新聞",非凡新聞
-#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv/
+#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv
 #EXTVLCOPT:http-origin=https://fetfriday.svc.litv.tv
 https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8#https://bsex.serv00.net/Smart.php?id=feifannews_twn
 #EXTINF:-1 group-title="新聞",壹新聞
@@ -40,15 +40,19 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o#https://ythls.armelin.one/channel/UC
 #EXTINF:-1 group-title="體育",緯來體育
 http://125.227.210.55:8155/VideoInput/play.ts#http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 group-title="體育",愛爾達體育1台
+#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com
 #EXTVLCOPT:http-origin=https://www.kankanzhibo.com
 https://cdn.ggapk.net/live/tv?id=1566DtGz7oGnQzut8pCPGKJ68NLaeMrTupJY0QBaqJimg-2tJqy11wcjFRD3F32YSTJnUrHWImAVnI8u-93ebxCyYg6RYwTCGm9nZPkmXOBV_EjIY6SAOF3To1-ip97A3Mh_bTWYfGvji5FPRpO2ycZD6X7Airk4BPqqIvxAkxtQ1_1TlQkT&idp=2220w7g-mKimukysTrsey2jkCmgBJ1Fpfr985udWr5Quh_wo3KdnrqfdRw#https://live.yzd.jialiangos.com:4443/live/fhw/188#https://z02.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8#http://ali.hlspull.yximgs.com/live/huanqiuhklivejejpjxcvjpjojdxcvdjojdjpoedhopjfvxcjhetouhjjvjjjtyy.flv#https://bsex.serv00.net/Smart.php?id=eltasport_twn
 #EXTINF:-1 group-title="體育",愛爾達體育2台
+#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com
 #EXTVLCOPT:http-origin=https://www.kankanzhibo.com
 https://cdn.ggapk.net/live/tv?id=13d54CM31g1qaFk_5VL4Z1FwjkWxhBdMuvTKOYq3yCSgvlsTdFGsWXuPkMrRVD43LCpY-ZCD3SG-7ATOyV59RhpL1cEoyHwKQYr9BHbMFLrVh7QDw3fnCh8GhDMOZzlf_N-wh07J1OH1C_cMrpaPt2uvHTSjLhsDymE7cn-gvqBh-yaLi8NY&idp=2cf7N9v2Tp-tbAb0ERfQHCe5g1Koao-Kj07src1X3REUOcYcUAZgxbCnrw#https://live.yzd.jialiangos.com:4443/live/fhw/189#https://z02.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8#http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv#https://bsex.serv00.net/Smart.php?id=eltasport2_twn
 #EXTINF:-1 group-title="體育",愛爾達體育3台
+#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com
 #EXTVLCOPT:http-origin=https://www.kankanzhibo.com
 https://cdn.ggapk.net/live/tv?id=d30d5pkQwu8BYIqS_bnOyMf3sgvwbulfYKqcIytBxjUUhrIc6IbdT9_ZSb1Pjre3j-XuKhVq_eyFDHwBniDsGHU7rWFm3CN599GgKYHWNzzrwJ0Mj7PaZMMrP4_890wP0sg8V40Oq6DrbSiYoiOWxDRLW12PUuzQFIqXDEzoJflQg7rEPnpd&idp=7294J8kiHM9M9b0wZg2jocpmAVlNWSWWsp3ZUnv6owAGOcYTALjLH_xa3g#https://live.yzd.jialiangos.com:4443/live/fhw/190#https://z02.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8#https://z02.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8#http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv#https://bsex.serv00.net/Smart.php?id=eltasport3_twn
 #EXTINF:-1 group-title="體育",愛爾達體育4台
+#EXTVLCOPT:http-referrer=https://www.kankanzhibo.com
 #EXTVLCOPT:http-origin=https://www.kankanzhibo.com
 https://live.yzd.jialiangos.com:4443/live/fhw/14#https://z02.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
 #EXTINF:-1 group-title="體育",DAZN1
@@ -70,7 +74,7 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 #EXTINF:-1 group-title="闔家",公視3台
 https://z02.ubtvfans.com/live/rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
 #EXTINF:-1 group-title="闔家",原住民電視
-#EXTVLCOPT:http-referrer=https://ipcf.ginnet.cloud/
+#EXTVLCOPT:http-referrer=https://ipcf.ginnet.cloud
 #EXTVLCOPT:http-origin=https://ipcf.ginnet.cloud
 https://streamipcf2.akamaized.net/live/_definst_/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="闔家",客家電視
