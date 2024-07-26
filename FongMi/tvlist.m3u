@@ -1,16 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="新聞",TVBS新聞
-#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv/
-#EXTVLCOPT:http-origin=https://fetfriday.svc.litv.tv
 https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 group-title="新聞",非凡新聞
-#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv/
-#EXTVLCOPT:http-origin=https://fetfriday.svc.litv.tv
 https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
 #EXTINF:-1 group-title="新聞",東森新聞
-#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv/
-#EXTVLCOPT:http-origin=https://fetfriday.svc.litv.tv
 https://aka25p.akamaized.net/live/EBCNews/playlist.m3u8#https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 group-title="新聞",東森財經新聞
 https://www.youtube.com/watch?v=WHEPzbFA3hw
@@ -69,14 +63,10 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 #EXTINF:-1 group-title="闔家",公視3台
 https://z02.ubtvfans.com/live/rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
 #EXTINF:-1 group-title="闔家",原住民電視
-#EXTVLCOPT:http-referrer=https://www.ipcf.org.tw/
-#EXTVLCOPT:http-origin=https://www.ipcf.org.tw
 https://streamipcf2.akamaized.net/live/_definst_/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="闔家",客家電視
 https://z02.ubtvfans.com/live/rx3/76/fa5b120431ea76968b2a7363017a2025/index.m3u8
 #EXTINF:-1 group-title="闔家",人間衛視
-#EXTVLCOPT:http-referrer=https://go.hoptv.tw/
-#EXTVLCOPT:http-origin=https://go.hoptv.tw
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 group-title="闔家",大愛電視
 https://www.youtube.com/watch?v=oV_i3Hsl_zg#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -118,12 +108,8 @@ https://z02.ubtvfans.com/live/rx1/59/cb49382c9457a5f3586f9e0635594838/index.m3u8
 #EXTINF:-1 group-title="綜合",i-Fun動漫
 https://z02.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8#https://z02.ubtvfans.com/live/rx1/2802/ea90ad21d35b54b28198d9fac02fba8a/index.m3u8
 #EXTINF:-1 group-title="綜合",tvN
-#EXTVLCOPT:http-referrer=https://www.myvideo.net.tw/
-#EXTVLCOPT:http-origin=https://www.myvideo.net.tw
 https://news2strm.myvideo.net.tw/bpk-tv/tvN/HLS/index.m3u8
 #EXTINF:-1 group-title="綜合",MOMOTV
-#EXTVLCOPT:http-referrer=https://www.myvideo.net.tw/
-#EXTVLCOPT:http-origin=https://www.myvideo.net.tw
 https://news2strm.myvideo.net.tw/bpk-tv/MOMOTV_OTT/HLS/index.m3u8
 #EXTINF:-1 group-title="綜合",年代MUCH
 https://z02.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8

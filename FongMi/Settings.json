@@ -240,8 +240,28 @@
   "rules": [
     {
       "hosts": [
-        "raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"],
-      "name": "proxy"
+        "aka25p.akamaized.net","aka03p.akamaized.net"],
+      "name": "friDay影音",
+      "regex": [
+        "#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv/\\r*\\n*#EXTVLCOPT:http-origin=https://fetfriday.svc.litv.tv"]
+    },{
+      "hosts": [
+        "streamipcf2.akamaized.net"],
+      "name": "原住民電視",
+      "regex": [
+        "#EXTVLCOPT:http-referrer=https://ipcf.ginnet.cloud/\\r*\\n*#EXTVLCOPT:http-origin=https://ipcf.ginnet.cloud"]
+    },{
+      "hosts": [
+        "myvideo.net.tw"],
+      "name": "MyVideo",
+      "regex": [
+        "#EXTVLCOPT:http-referrer=https://www.myvideo.net.tw/\\r*\\n*#EXTVLCOPT:http-origin=www.myvideo.net.tw"]
+    },{
+      "hosts": [
+        "5ddce30eb4b55.streamlock.net"],
+      "name": "人間衛視",
+      "regex": [
+        "#EXTVLCOPT:http-referrer=https://go.hoptv.tw/\\r*\\n*#EXTVLCOPT:http-origin=https://go.hoptv.tw"]
     },{
       "hosts": [
         "haiwaikan"],
