@@ -252,7 +252,7 @@
         "#EXTVLCOPT:http-referrer=https://ipcf.ginnet.cloud/\\r*\\n*#EXTVLCOPT:http-origin=https://ipcf.ginnet.cloud"]
     },{
       "hosts": [
-        "myvideo.net.tw"],
+        "news2strm.myvideo.net.tw"],
       "name": "MyVideo",
       "regex": [
         "#EXTVLCOPT:http-referrer=https://www.myvideo.net.tw/\\r*\\n*#EXTVLCOPT:http-origin=www.myvideo.net.tw"]
