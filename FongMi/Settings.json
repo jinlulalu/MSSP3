@@ -31,7 +31,7 @@
     "static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"],
   "lives": [
     {
-      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.m3u",
       "playerType": 2,
       "name": "【體育/新聞/電視節目】"
     },{
@@ -239,12 +239,6 @@
   "logo": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/logo.jpg",
   "rules": [
     {
-      "hosts": [
-        "myvideo.net.tw"],
-      "name": "MyVideo",
-      "regex": [
-        "#EXTVLCOPT:http-referrer=https://www.myvideo.net.tw/\\r*\\n*#EXTVLCOPT:http-origin=https://www.myvideo.net.tw"]
-    },{
       "hosts": [
         "haiwaikan"],
       "name": "海外看",
