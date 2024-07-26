@@ -241,6 +241,12 @@
   "logo": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/logo.jpg",
   "rules": [
     {
+      "referer": "https://yeslivetv.com/",
+      "hosts": [
+        "cdn.gogogo.eu.org","yeslivetv.com"],
+      "origin": "https://yeslivetv.com",
+      "name": "夜視影音"
+    },{
       "hosts": [
         "haiwaikan"],
       "name": "海外看",
