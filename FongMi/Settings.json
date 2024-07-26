@@ -31,9 +31,11 @@
     "static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"],
   "lives": [
     {
-      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/tvlist.m3u",
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "playerType": 2,
-      "name": "【體育/新聞/電視節目】"
+      "name": "【體育/新聞/電視節目】",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },{
       "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
       "playerType": 2,
