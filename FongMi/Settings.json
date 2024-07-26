@@ -31,9 +31,17 @@
     "static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"],
   "lives": [
     {
-      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.m3u",
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
       "playerType": 2,
+      "referer": "https://fetfriday.svc.litv.tv/",
+      "origin": "https://www.myvideo.net.tw",
       "name": "【體育/新聞/電視節目】"
+    },{
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/KanKan.txt",
+      "playerType": 2,
+      "referer": "https://www.kankanzhibo.com/",
+      "origin": "https://www.kankanzhibo.com",
+      "name": "【看看直播】"
     },{
       "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
       "playerType": 2,
