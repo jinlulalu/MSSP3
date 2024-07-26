@@ -1,5 +1,5 @@
 新聞,#genre#
-TVBS新聞,https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#https://www.youtube.com/watch?v=m_dhMSvUCIc,Referer=https://fetfriday.svc.litv.tv/,origin=https://fetfriday.svc.litv.tv
+TVBS新聞,https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY#https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
@@ -8,7 +8,7 @@ TVBS新聞,https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#https://www.you
 年代新聞,https://z02.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8#https://z02.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 東森新聞,https://aka25p.akamaized.net/live/EBCNews/playlist.m3u8#https://www.youtube.com/watch?v=V1p33hqPrUk
 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
-非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8,Referer=https://fetfriday.svc.litv.tv/,origin=https://fetfriday.svc.litv.tv
+非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
 壹新聞,https://z02.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc

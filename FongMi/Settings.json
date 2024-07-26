@@ -33,6 +33,8 @@
     {
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
       "playerType": 2,
+      "Referer": "https://www.litv.tv",
+      "Origin": "https://www.myvideo.net.tw",
       "name": "【體育/新聞/電視節目】"
     },{
       "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
@@ -239,23 +241,6 @@
   "logo": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/logo.jpg",
   "rules": [
     {
-      "referer": "https://www.litv.tv/",
-      "hosts": [
-        "*.akamaized.net"],
-      "origin": "https://www.litv.tv",
-      "name": "LiTV"
-    },{
-      "hosts": [
-        "myvideo.net.tw"],
-      "header": {
-        "Dnt": "1",
-        "Referer": "https://www.myvideo.net.tw/",
-        "Priority": "u=1, i",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-        "Origin": "https://www.myvideo.net.tw"
-      },
-      "name": "MyVideo"
-    },{
       "Referer": "https://go.hoptv.tw/",
       "hosts": [
         "5ddce30eb4b55.streamlock.net"],
