@@ -34,8 +34,6 @@
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "playerType": 2,
-      "referer": "https://www.litv.tv/",
-      "origin": "https://www.litv.tv",
       "name": "【體育/新聞/電視節目】",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },{
@@ -243,36 +241,28 @@
   "logo": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/logo.jpg",
   "rules": [
     {
+      "Referer": "https://fetfriday.svc.litv.tv/",
       "hosts": [
-        "*.friday.tw","aka25p.akamaized.net","aka03p.akamaized.net"],
-      "header": {
-        "Referer": "https://fetfriday.svc.litv.tv/",
-        "Origin": "https://fetfriday.svc.litv.tv"
-      },
+        "aka25p.akamaized.net","aka03p.akamaized.net"],
+      "Origin": "https://fetfriday.svc.litv.tv",
       "name": "friDay影音"
     },{
+      "Referer": "https://ipcf.ginnet.cloud/",
       "hosts": [
         "ipcf.org.tw","streamipcf2.akamaized.net"],
-      "header": {
-        "Referer": "https://ipcf.ginnet.cloud/",
-        "Origin": "https://ipcf.ginnet.cloud"
-      },
+      "Origin": "https://ipcf.ginnet.cloud",
       "name": "原住民電視"
     },{
+      "Referer": "https://www.myvideo.net.tw/",
       "hosts": [
         "myvideo.net.tw"],
-      "header": {
-        "Referer": "https://www.myvideo.net.tw/",
-        "Origin": "https://www.myvideo.net.tw"
-      },
+      "Origin": "https://www.myvideo.net.tw",
       "name": "MyVideo"
     },{
+      "Referer": "https://go.hoptv.tw/",
       "hosts": [
         "5ddce30eb4b55.streamlock.net"],
-      "header": {
-        "Referer": "https://go.hoptv.tw/",
-        "Origin": "https://go.hoptv.tw"
-      },
+      "Origin": "https://go.hoptv.tw",
       "name": "人間衛視"
     },{
       "hosts": [
