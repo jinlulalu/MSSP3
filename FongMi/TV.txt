@@ -56,7 +56,7 @@ NICETV靖天歡樂台,https://z02.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa19
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 靖天日本台,https://z02.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
 Animax,https://z02.ubtvfans.com/live/rx1/59/cb49382c9457a5f3586f9e0635594838/index.m3u8
-I-FUN動漫,https://z02.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8#https://z02.ubtvfans.com/live/rx1/2802/ea90ad21d35b54b28198d9fac02fba8a/index.m3u8
+i-Fun動漫,https://z02.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8#https://z02.ubtvfans.com/live/rx1/2802/ea90ad21d35b54b28198d9fac02fba8a/index.m3u8
 tvN,https://news2strm.myvideo.net.tw/bpk-tv/tvN/HLS/index.m3u8
 MOMOTV,https://news2strm.myvideo.net.tw/bpk-tv/MOMOTV_OTT/HLS/index.m3u8
 年代MUCH,https://z02.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8

@@ -31,9 +31,11 @@
     "static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"],
   "lives": [
     {
-      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.m3u",
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "playerType": 2,
-      "name": "【體育/新聞/電視節目】"
+      "name": "【體育/新聞/電視節目】",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },{
       "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
       "playerType": 2,
@@ -239,6 +241,36 @@
   "logo": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/logo.jpg",
   "rules": [
     {
+      "referer": "https://www.litv.tv/",
+      "hosts": [
+        "akamaized.net"],
+      "origin": "https://www.litv.tv",
+      "name": "friDay影音"
+    },{
+      "Referer": "https://fetfriday.svc.litv.tv/",
+      "hosts": [
+        "friday.tw"],
+      "Origin": "https://fetfriday.svc.litv.tv",
+      "name": "friDay影音"
+    },{
+      "Referer": "https://ipcf.org.tw/",
+      "hosts": [
+        "ipcf.org.tw"],
+      "Origin": "https://ipcf.org.tw",
+      "name": "原住民電視"
+    },{
+      "Referer": "https://www.myvideo.net.tw/",
+      "hosts": [
+        "myvideo.net.tw"],
+      "Origin": "https://www.myvideo.net.tw",
+      "name": "MyVideo"
+    },{
+      "Referer": "https://go.hoptv.tw/",
+      "hosts": [
+        "5ddce30eb4b55.streamlock.net"],
+      "Origin": "https://go.hoptv.tw",
+      "name": "人間衛視"
+    },{
       "hosts": [
         "haiwaikan"],
       "name": "海外看",
