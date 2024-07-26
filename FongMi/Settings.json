@@ -241,9 +241,9 @@
     {
       "hosts": [
         "myvideo.net.tw"],
-      "name": "人間衛視",
+      "name": "MyVideo",
       "regex": [
-        "#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv/\\r*\\n*#EXTVLCOPT:http-origin=https://fetfriday.svc.litv.tv"]
+        "#EXTVLCOPT:http-referrer=https://www.myvideo.net.tw/\\r*\\n*#EXTVLCOPT:http-origin=https://www.myvideo.net.tw"]
     },{
       "hosts": [
         "haiwaikan"],
