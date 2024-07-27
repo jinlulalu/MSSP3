@@ -1,44 +1,44 @@
 新聞,#genre#
 TVBS新聞,https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#https://www.youtube.com/watch?v=m_dhMSvUCIc
-三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY#https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY#https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA#https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 年代新聞,https://z02.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-東森新聞,https://aka25p.akamaized.net/live/EBCNews/playlist.m3u8
 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
+東森新聞,https://aka25p.akamaized.net/live/EBCNews/playlist.m3u8
 非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
 壹新聞,https://z02.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇財經台,http://4gtv.mumi.rip:9877/281/litv-longturn23/index.m3u8#https://www.youtube.com/watch?v=WTRQiVWK1jY
+寰宇新聞,http://4gtv.mumi.rip:9877/36/litv-longturn14/index.m3u8#https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台灣,http://4gtv.mumi.rip:9877/280/litv-longturn15/index.m3u8#https://www.youtube.com/watch?v=w87VGpgd90U
-寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 體育,#genre#
 緯來體育,http://125.227.210.55:8155/VideoInput/play.ts#http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#https://cloud.yumixiu768.com/tmp/123.m3u8
-愛爾達體育1台,https://cdn.gogogo.eu.org/live/elta1.m3u8?token=P0BKvMHuaBC3wwfJA3AC8w&expires=1722055542
-愛爾達體育2台,https://cdn.gogogo.eu.org/live/elta2.m3u8?token=Cha5KQL0QblqtXmp8xifug&expires=1722055542
-愛爾達體育3台,https://cdn.gogogo.eu.org/live/elta3.m3u8?token=JVmOEqsVvUPFqc8J1U95Ww&expires=1722055542
-愛爾達體育4台,https://cdn.gogogo.eu.org/live/elta4.m3u8?token=f3LEncUidD7S1-9YnF5d_g&expires=1722055542
-DAZN1,https://z02.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-DAZN2,https://z02.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
-博斯運動1,http://4gtv.mumi.rip:9877/50/litv-longturn07/index.m3u8
-博斯運動2,http://4gtv.mumi.rip:9877/299/litv-longturn08/index.m3u8
+愛爾達體育1台,https://t24.iptv200.com/live/eltasport1/index.m3u8?session=tz57hh7ye88pucxrbikgybjah9y7lsj6
+愛爾達體育2台,https://t42.iptv200.com/live/eltasport2/index.m3u8?session=7hf7qvi6pd9rmdmrb06q9qp01oxzaw8o
+愛爾達體育3台,https://t27.iptv200.com/live/eltasport3/index.m3u8?session=9c1iam7k0qr5cxvb47fnp1hyod6xbihk
+愛爾達體育4台,https://t28.iptv200.com/live/eltasport4/index.m3u8?session=vkrc944dz53xxkklwy3qnqvvm1zfjcnl
+DAZN1,https://t19.iptv200.com/live/tv731/index.m3u8?session=ago9ixcwa7j0g7pfrymm8czzasj803ga#https://z02.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+DAZN2,https://t19.iptv200.com/live/tv741/index.m3u8?session=7kln2onusspbrdx86zcspwk2r22e0175
 博斯高球,http://4gtv.mumi.rip:9877/48/litv-longturn05/index.m3u8
 博斯高球2,http://4gtv.mumi.rip:9877/298/litv-longturn06/index.m3u8
+博斯無限,http://4gtv.mumi.rip:9877/51/litv-longturn10/index.m3u8
+博斯運動1,http://4gtv.mumi.rip:9877/50/litv-longturn07/index.m3u8
+博斯運動2,http://4gtv.mumi.rip:9877/299/litv-longturn08/index.m3u8
 博斯網球,http://4gtv.mumi.rip:9877/52/litv-longturn09/index.m3u8
 博斯魅力,http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
-博斯無限,http://4gtv.mumi.rip:9877/51/litv-longturn10/index.m3u8
 智林體育,http://4gtv.mumi.rip:9877/58/4gtv-4gtv101/index.m3u8
-TRACE Sport Stars,http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8
-時尚運動X,http://4gtv.mumi.rip:9877/69/4gtv-4gtv014/index.m3u8
-車迷,http://4gtv.mumi.rip:9877/160/4gtv-live201/index.m3u8
 GINX Esports TV,http://4gtv.mumi.rip:9877/179/4gtv-4gtv053/index.m3u8
+TRACE Sport Stars,http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8
+車迷,http://4gtv.mumi.rip:9877/160/4gtv-live201/index.m3u8
+時尚運動X,http://4gtv.mumi.rip:9877/69/4gtv-4gtv014/index.m3u8
 
 闔家,#genre#
-民視,https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
+民視,http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8#https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 中視,http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8#https://z02.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8#https://z02.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8#http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
 華視,http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8#https://z02.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8#https://z02.ubtvfans.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8#http://37.27.111.214:8080/live/8/hls.m3u8
@@ -52,93 +52,101 @@ GINX Esports TV,http://4gtv.mumi.rip:9877/179/4gtv-4gtv053/index.m3u8
 大愛二臺,http://4gtv.mumi.rip:9877/230/4gtv-live106/index.m3u8#https://www.youtube.com/watch?v=DTNkEm6jaqQ#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 綜合,#genre#
-三立綜合,http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8#https://z02.ubtvfans.com/live/rx1/2815/af61185ec308b1e29fa3e08203558e15/index.m3u8#https://z02.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8#https://histar.zapi.us.kg/?id=settv-zonghe#https://histar.zapi.us.kg/?id=settv-zonghe
-靖天資訊,http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8#https://z02.ubtvfans.com/live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8#https://histar.zapi.us.kg/?id=jtzx
-靖天綜合,http://4gtv.mumi.rip:9877/21/4gtv-4gtv046/index.m3u8#https://z02.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8#https://histar.zapi.us.kg/?id=jtzh
-靖天育樂,http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8#https://z02.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8#https://histar.zapi.us.kg/?id=jtyl
-Smart知識,http://4gtv.mumi.rip:9877/297/litv-longturn19/index.m3u8
-中視經典台,http://4gtv.mumi.rip:9877/124/4gtv-4gtv080/index.m3u8#https://z02.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
-中視菁采台,http://4gtv.mumi.rip:9877/123/4gtv-4gtv064/index.m3u8#https://z02.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
-TVBS精采台,http://4gtv.mumi.rip:9877/227/4gtv-4gtv067/index.m3u8
-TVBS歡樂台,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
-TVBS綜藝台,http://4gtv.mumi.rip:9877/284/4gtv-live087/index.m3u8
-緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
-東森綜合台,https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8#
-民視第一台,http://4gtv.mumi.rip:9877/1/4gtv-4gtv003/index.m3u8#http://37.27.111.214:8080/live/4/hls.m3u8#https://histar.zapi.us.kg/?id=ftv-one
-民視台灣台,http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8#https://z02.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8#http://37.27.111.214:8080/live/5/hls.m3u8#http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8#https://histar.zapi.us.kg/?id=ftv-tw
-Nice TV 靖天歡樂台,https://z02.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
-新唐人亞太台,https://www.youtube.com/watch?v=WIhgU_mc05A#http://4gtv.mumi.rip:9877/223/4gtv-live050/index.m3u8#http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
 MOMOTV,https://news2strm.myvideo.net.tw/bpk-tv/MOMOTV_OTT/HLS/index.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-靖天日本,http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8#https://z02.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
-Animax,https://z02.ubtvfans.com/live/rx1/59/cb49382c9457a5f3586f9e0635594838/index.m3u8
-i-Fun動漫,http://4gtv.mumi.rip:9877/60/litv-ftv15/index.m3u8#https://z02.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8#https://z02.ubtvfans.com/live/rx1/2802/ea90ad21d35b54b28198d9fac02fba8a/index.m3u8
-tvN,https://news2strm.myvideo.net.tw/bpk-tv/tvN/HLS/index.m3u8
+Nice TV 靖天歡樂台,http://4gtv.mumi.rip:9877/119/4gtv-4gtv054/index.m3u8#https://z02.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
 ROCK Entertainment,http://4gtv.mumi.rip:9877/275/4gtv-live080/index.m3u8
+Smart知識,http://4gtv.mumi.rip:9877/297/litv-longturn19/index.m3u8
 TechStorm,http://4gtv.mumi.rip:9877/181/4gtv-live109/index.m3u8
-民視綜藝,http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
-愛爾達娛樂,http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
-八大綜藝,http://4gtv.mumi.rip:9877/114/4gtv-4gtv039/index.m3u8
+TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS精采台,http://4gtv.mumi.rip:9877/227/4gtv-4gtv067/index.m3u8
+TVBS綜藝台,http://4gtv.mumi.rip:9877/284/4gtv-live087/index.m3u8
+TVBS歡樂台,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
+tvN,https://news2strm.myvideo.net.tw/bpk-tv/tvN/HLS/index.m3u8
 八大精彩,http://4gtv.mumi.rip:9877/172/4gtv-4gtv034/index.m3u8
-年代MUCH,https://z02.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
-霹靂台灣台,https://z02.ubtvfans.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8
-霹靂布袋戲,http://4gtv.mumi.rip:9877/301/4gtv-live145/index.m3u8
+八大綜藝,http://4gtv.mumi.rip:9877/114/4gtv-4gtv039/index.m3u8
+三立綜合,http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8#https://z02.ubtvfans.com/live/rx1/2815/af61185ec308b1e29fa3e08203558e15/index.m3u8#https://z02.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8#https://histar.zapi.us.kg/?id=settv-zonghe#https://histar.zapi.us.kg/?id=settv-zonghe
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+中視菁采台,http://4gtv.mumi.rip:9877/123/4gtv-4gtv064/index.m3u8#https://z02.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
+中視經典台,http://4gtv.mumi.rip:9877/124/4gtv-4gtv080/index.m3u8#https://z02.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
+民視台灣台,http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8#https://z02.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8#http://37.27.111.214:8080/live/5/hls.m3u8#http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8#https://histar.zapi.us.kg/?id=ftv-tw
+民視第一台,http://4gtv.mumi.rip:9877/1/4gtv-4gtv003/index.m3u8#http://37.27.111.214:8080/live/4/hls.m3u8#https://histar.zapi.us.kg/?id=ftv-one
+民視綜藝,http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
+東森綜合台,https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8#
 金光布袋戲,http://4gtv.mumi.rip:9877/236/4gtv-live144/index.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+愛爾達娛樂,http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
+新唐人亞太台,http://4gtv.mumi.rip:9877/223/4gtv-live050/index.m3u8#https://www.youtube.com/watch?v=WIhgU_mc05A#http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+靖天日本,http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8#https://z02.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+靖天育樂,http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8#https://z02.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8#https://histar.zapi.us.kg/?id=jtyl
+靖天資訊,http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8#https://z02.ubtvfans.com/live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8#https://histar.zapi.us.kg/?id=jtzx
+靖天綜合,http://4gtv.mumi.rip:9877/21/4gtv-4gtv046/index.m3u8#https://z02.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8#https://histar.zapi.us.kg/?id=jtzh
+緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
+霹靂台灣台,https://z02.ubtvfans.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8
+霹靂布袋戲,http://4gtv.mumi.rip:9877/301/4gtv-live145/index.m3u8
 
 知識,#genre#
-LOVE NATURE,http://4gtv.mumi.rip:9877/139/4gtv-live208/index.m3u8
+CI 罪案偵查,http://4gtv.mumi.rip:9877/215/4gtv-live027/index.m3u8
 Global Trekker,http://4gtv.mumi.rip:9877/252/4gtv-live112/index.m3u8
-History歷史頻道,http://4gtv.mumi.rip:9877/214/4gtv-live026/index.m3u8
-PET CLUB TV,http://4gtv.mumi.rip:9877/182/4gtv-live110/index.m3u8
-LUXE TV,http://4gtv.mumi.rip:9877/175/4gtv-live121/index.m3u8
-Lifetime娛樂頻道,http://4gtv.mumi.rip:9877/217/4gtv-live029/index.m3u8
+Globetrotter 環遊旅行家,http://4gtv.mumi.rip:9877/288/4gtv-4gtv016/index.m3u8
+History 歷史頻道,http://4gtv.mumi.rip:9877/214/4gtv-live026/index.m3u8
 KLT-靖天國際台,http://4gtv.mumi.rip:9877/84/4gtv-4gtv063/index.m3u8#https://z02.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
-幸福空間居家台,http://4gtv.mumi.rip:9877/168/4gtv-live206/index.m3u8#http://37.27.111.214:8080/live/26/hls.m3u8
+Lifetime,http://4gtv.mumi.rip:9877/217/4gtv-live029/index.m3u8
+LOVE NATURE,http://4gtv.mumi.rip:9877/139/4gtv-live208/index.m3u8
+LUXE TV,http://4gtv.mumi.rip:9877/175/4gtv-live121/index.m3u8
+PET CLUB TV,http://4gtv.mumi.rip:9877/182/4gtv-live110/index.m3u8
 rollor滾動力,http://4gtv.mumi.rip:9877/249/4gtv-live012/index.m3u8
-亞洲旅遊,http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8#https://z02.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8#http://37.27.111.214:8080/live/10/hls.m3u8#http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8513/.m3u8
+TV5MONDE STYLE HD 生活時尚,http://4gtv.mumi.rip:9877/178/4gtv-live122/index.m3u8
 民視旅遊,http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
+亞洲旅遊,http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8#https://z02.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8#http://37.27.111.214:8080/live/10/hls.m3u8#http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8513/.m3u8
+幸福空間居家台,http://4gtv.mumi.rip:9877/168/4gtv-live206/index.m3u8#http://37.27.111.214:8080/live/26/hls.m3u8
 
 兒少,#genre#
 CN卡通,https://z02.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8#http://125.227.210.55:8167/VideoInput/play.ts
+DreamWorks夢工廠動畫,http://4gtv.mumi.rip:9877/282/4gtv-live017/index.m3u8#
 ELTV生活英語台,http://4gtv.mumi.rip:9877/106/litv-longturn20/index.m3u8
-尼克兒童頻道,http://4gtv.mumi.rip:9877/185/4gtv-live105/index.m3u8
-靖天卡通,http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8#https://z02.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
-達文西頻道,http://4gtv.mumi.rip:9877/11/4gtv-4gtv018/index.m3u8
-Nick Jr.兒童頻道,http://4gtv.mumi.rip:9877/219/4gtv-live032/index.m3u8
-龍華卡通,http://4gtv.mumi.rip:9877/295/litv-longturn01/index.m3u8
+i-Fun動漫,http://4gtv.mumi.rip:9877/60/litv-ftv15/index.m3u8#https://z02.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8#https://z02.ubtvfans.com/live/rx1/2802/ea90ad21d35b54b28198d9fac02fba8a/index.m3u8
+LiveABC互動英語,http://4gtv.mumi.rip:9877/188/4gtv-live030/index.m3u8
 MOMO親子,http://4gtv.mumi.rip:9877/231/4gtv-live107/index.m3u8
+Nick Jr.兒童頻道,http://4gtv.mumi.rip:9877/219/4gtv-live032/index.m3u8
+尼克兒童頻道,http://4gtv.mumi.rip:9877/185/4gtv-live105/index.m3u8
 東森幼幼,https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
+達文西頻道,http://4gtv.mumi.rip:9877/11/4gtv-4gtv018/index.m3u8
+靖天卡通,http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8#https://z02.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
+靖洋卡通Nice Bingo,http://4gtv.mumi.rip:9877/59/4gtv-4gtv057/index.m3u8
+龍華卡通,http://4gtv.mumi.rip:9877/295/litv-longturn01/index.m3u8
 
 電影,#genre#
-視納華仁紀實頻道,https://z02.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
+amc電影台,http://4gtv.mumi.rip:9877/39/4gtv-4gtv017/index.m3u8
+CinemaWorld,http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
+HITS,http://4gtv.mumi.rip:9877/186/4gtv-live620/index.m3u8
+My Cinema Europe HD 我的歐洲電影,http://4gtv.mumi.rip:9877/176/4gtv-live157/index.m3u8
+ROCK Action,http://4gtv.mumi.rip:9877/180/4gtv-live138/index.m3u8
+采昌影劇,http://4gtv.mumi.rip:9877/25/4gtv-4gtv049/index.m3u8
 美亞電影,https://z02.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
-龍華電影,http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8#https://z02.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8#http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv#http://37.27.111.214:8080/live/19/hls.m3u8
+視納華仁紀實頻道,http://4gtv.mumi.rip:9877/38/4gtv-4gtv013/index.m3u8#https://z02.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
 靖天映畫,http://4gtv.mumi.rip:9877/42/4gtv-4gtv055/index.m3u8#https://z02.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
 靖天電影,http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8#https://z02.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
+影迷數位紀實,http://4gtv.mumi.rip:9877/212/4gtv-live023/index.m3u8
+影迷數位電影,http://4gtv.mumi.rip:9877/40/4gtv-4gtv011/index.m3u8
 龍華洋片,https://z02.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8#http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfvxcvxsjbcvjfdvsfcbjbnjtyxty.flv#http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv
-ROCK Action,http://4gtv.mumi.rip:9877/180/4gtv-live138/index.m3u8
-amc電影台,http://4gtv.mumi.rip:9877/39/4gtv-4gtv017/index.m3u8
-HITS,http://4gtv.mumi.rip:9877/186/4gtv-live620/index.m3u8
-CinemaWorld,http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
-采昌影劇,http://4gtv.mumi.rip:9877/25/4gtv-4gtv049/index.m3u8
+龍華電影,http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8#https://z02.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8#http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv#http://37.27.111.214:8080/live/19/hls.m3u8
 
 戲劇,#genre#
-龍華戲劇,http://4gtv.mumi.rip:9877/23/litv-longturn18/index.m3u8
-龍華偶像,http://4gtv.mumi.rip:9877/296/litv-longturn12/index.m3u8
-靖天戲劇,http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8#https://z02.ubtvfans.com/live/rx1/109/a849bd2093c1a6633490ced0f66c0451/index.m3u8
-靖洋戲劇,http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
+TVBS台戲台,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 公視戲劇,http://4gtv.mumi.rip:9877/7/4gtv-4gtv042/index.m3u8
 民視影劇,http://4gtv.mumi.rip:9877/24/litv-ftv09/index.m3u8
+靖天戲劇,http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8#https://z02.ubtvfans.com/live/rx1/109/a849bd2093c1a6633490ced0f66c0451/index.m3u8
+靖洋戲劇,http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
 龍華日韓,http://4gtv.mumi.rip:9877/28/litv-longturn11/index.m3u8
-TVBS台戲台,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
+龍華偶像,http://4gtv.mumi.rip:9877/296/litv-longturn12/index.m3u8
+龍華戲劇,http://4gtv.mumi.rip:9877/23/litv-longturn18/index.m3u8
 
 音樂,#genre#
-Mezzo Live HD,http://4gtv.mumi.rip:9877/79/4gtv-4gtv083/index.m3u8
-TRACE Urban,http://4gtv.mumi.rip:9877/78/4gtv-4gtv082/index.m3u8
 CLASSICA古典音樂台,http://4gtv.mumi.rip:9877/80/4gtv-4gtv059/index.m3u8
 CMusic電影原聲台,http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
 fun探索娛樂,http://4gtv.mumi.rip:9877/274/4gtv-live011/index.m3u8
+Mezzo Live HD,http://4gtv.mumi.rip:9877/79/4gtv-4gtv083/index.m3u8
+TRACE Urban,http://4gtv.mumi.rip:9877/78/4gtv-4gtv082/index.m3u8
 
 香港,#genre#
 翡翠台,https://z02.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8#http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -159,6 +167,7 @@ THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 綜藝大熱門,https://www.youtube.com/watch?v=-L9cBf3oAO0
 豬哥會社,https://www.youtube.com/watch?v=0aBJU1mFpsk
 現代嘉慶君,https://www.youtube.com/watch?v=IsFtLpSuf_g
+台灣啟示錄,https://www.youtube.com/watch?v=PFeFPjqVi3g
 
 台劇,#genre#
 1989一念間,https://www.youtube.com/watch?v=AYNsSaIX3fo
@@ -176,14 +185,11 @@ THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 外劇,#genre#
 三國,https://www.youtube.com/watch?v=Njvo1ce2v90
 去有風的地方,https://www.youtube.com/watch?v=be6L9zpVqw4
-我和我們在一起,https://www.youtube.com/watch?v=FdoVTSTSMho
 知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=hcxLMIfxi0A
 羋月傳,https://www.youtube.com/watch?v=Wo0nJ-keKVw
 軍師聯盟&虎嘯龍吟,https://www.youtube.com/watch?v=AprAcD2oqI8
 神鵰俠侶,https://www.youtube.com/watch?v=Vu_eDZF3PXU
-康熙王朝,https://www.youtube.com/watch?v=1EIoG893yTk
 琅琊榜,https://www.youtube.com/watch?v=u1uU2AzsD0k
-雍正王朝,https://www.youtube.com/watch?v=6vQqX61nqmI
 
 食旅,#genre#
 【非凡大探索】台北美食篇,https://www.youtube.com/watch?v=VN8MJJ5QfHs
@@ -191,8 +197,3 @@ THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 【非凡大探索】高雄美食篇,https://www.youtube.com/watch?v=tOXkcx18aBY
 MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
 大陸尋奇,https://www.youtube.com/watch?v=OVdLUlVHFMI
-
-知性,#genre#
-台灣啟示錄,https://www.youtube.com/watch?v=PFeFPjqVi3g
-堪薩斯城動物園-北極熊,https://www.youtube.com/watch?v=BSUnBPvX9K4
-

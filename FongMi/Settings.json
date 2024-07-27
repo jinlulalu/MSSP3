@@ -36,10 +36,6 @@
       "referer": "https://fetfriday.svc.litv.tv/",
       "origin": "https://www.myvideo.net.tw",
       "name": "【體育/新聞/電視節目】"
-    },{
-      "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
-      "playerType": 2,
-      "name": "【iptv-org】"
     }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
@@ -241,11 +237,11 @@
   "logo": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/logo.jpg",
   "rules": [
     {
-      "referer": "https://yeslivetv.com/",
+      "referer": "https://iptv345.com/",
       "hosts": [
-        "cdn.gogogo.eu.org","yeslivetv.com"],
-      "origin": "https://yeslivetv.com",
-      "name": "夜視影音"
+        "iptv200.com"],
+      "origin": "null",
+      "name": "IPTV345"
     },{
       "hosts": [
         "haiwaikan"],
