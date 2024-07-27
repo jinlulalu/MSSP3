@@ -36,12 +36,6 @@
       "referer": "https://fetfriday.svc.litv.tv/",
       "origin": "https://www.myvideo.net.tw",
       "name": "【體育/新聞/電視節目】"
-    },{
-      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/KanKan.txt",
-      "playerType": 2,
-      "referer": "https://www.kankanzhibo.com/",
-      "origin": "https://www.kankanzhibo.com",
-      "name": "【看看直播】"
     }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
@@ -243,10 +237,10 @@
   "logo": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/logo.jpg",
   "rules": [
     {
-      "referer": "https://iptv345.com/",
+      "referer": "https://www.chaojidianshi.net/",
       "hosts": [
-        "iptv200.com"],
-      "origin": "null",
+        "bstvcdn.ballbar.net"],
+      "origin": "https://www.chaojidianshi.net",
       "name": "IPTV345"
     },{
       "hosts": [
