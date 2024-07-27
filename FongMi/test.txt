@@ -1,0 +1,7 @@
+測試,#genre#
+
+line today,https://today.line.me/tw/v2/article/jggMBa
+牛視,https://www.chaojidianshi.net/zhibo/tiyuzhibo/aierdatiyu1tai.html
+夜市,https://yeslivetv.com/channels/elta-tv-1/
+iptv345,https://iptv345.com/?act=play&token=bfb3a0b9ac76b84242671f93dff0258f&tid=ty&id=28
+123iptv,https://www.123iptv.tv/tw/tv/aierdatiyu1tai.html

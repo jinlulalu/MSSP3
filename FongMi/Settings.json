@@ -36,6 +36,10 @@
       "referer": "https://fetfriday.svc.litv.tv/",
       "origin": "https://www.myvideo.net.tw",
       "name": "【體育/新聞/電視節目】"
+    },{
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/test.txt",
+      "playerType": 2,
+      "name": "【測試用】"
     }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
@@ -315,10 +319,12 @@
       "regex": [
         "m3u8?pt=m3u8"]
     },{
+      "referer": "https://yeslivetv.com/",
       "script": [
         "document.getElementsByClassName('vjs-big-play-button')[0].click()"],
       "hosts": [
         "yeslivetv.com"],
+      "origin": "https://yeslivetv.com/",
       "name": "夜市點擊"
     },{
       "script": [
