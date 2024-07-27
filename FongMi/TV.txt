@@ -19,7 +19,7 @@ TVBS新聞,https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#https://www.you
 體育,#genre#
 緯來體育,http://125.227.210.55:8155/VideoInput/play.ts#http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#https://cloud.yumixiu768.com/tmp/123.m3u8
 愛爾達體育1,https://bstvcdn.ballbar.net/eltasport_twn/playlist-12.m3u8a?t=1722102098&token=ad33fb1eee3eb7db59e09ea102d11e1c#https://bstvcdn.ballbar.net/eltasport_twn/playlist-12.m3u8a?t=1722102138&token=3f660e544295895f850e16e2f4cacffc#https://bstvcdn.ballbar.net/eltasport_twn/playlist-17.m3u8a?t=1722102170&token=4e20c04163220679b9c509f26402d205
-愛爾達體育2,https://bstvcdn.ballbar.net/eltasport2_twn/playlist-17.m3u8a?t=1722099632&token=eb7a97e8f1b5dfd238014aeb4ba1b43c&https://bstvcdn.ballbar.net/eltasport2_twn/playlist-12.m3u8a?t=1722102050&token=fad175261dcebc774b0437cadf526683
+愛爾達體育2,https://bstvcdn.ballbar.net/eltasport2_twn/playlist-17.m3u8a?t=1722102459&token=40e033028504d1fa6e9e239382b67e1c#https://bstvcdn.ballbar.net/eltasport2_twn/playlist-17.m3u8a?t=1722102402&token=126a7838ebce47840f4116a89245dfa5
 博斯高球,http://4gtv.mumi.rip:9877/48/litv-longturn05/index.m3u8
 博斯高球2,http://4gtv.mumi.rip:9877/298/litv-longturn06/index.m3u8
 博斯無限,http://4gtv.mumi.rip:9877/51/litv-longturn10/index.m3u8
