@@ -237,9 +237,15 @@
   "logo": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/logo.jpg",
   "rules": [
     {
+      "referer": "https://www.kankanzhibo.com/",
+      "hosts": [
+        "cdn.ggapk.net","kankanzhibo.com"],
+      "origin": "https://www.kankanzhibo.com",
+      "name": "看看直播"
+    },{
       "referer": "https://www.chaojidianshi.net/",
       "hosts": [
-        "bstvcdn.ballbar.net"],
+        "bstvcdn.ballbar.net","chaojidianshi.net"],
       "origin": "https://www.chaojidianshi.net",
       "name": "牛視"
     },{
