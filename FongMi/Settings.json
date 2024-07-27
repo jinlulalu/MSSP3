@@ -40,15 +40,6 @@
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
     {
-      "key": "愛爾達體育1",
-      "api": "https://www.kankanzhibo.com/tiyupindao/aierdatiyu1tai.html",
-      "searchable": 0,
-      "referer": "https://www.kankanzhibo.com/",
-      "changeable": 0,
-      "origin": "https://www.kankanzhibo.com",
-      "type": 2,
-      "name": "愛爾達體育1"
-    },{
       "key": "豆瓣",
       "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json",
       "api": "csp_Douban",
@@ -246,6 +237,12 @@
   "logo": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/logo.jpg",
   "rules": [
     {
+      "referer": "https://iptv345.com/",
+      "hosts": [
+        "iptv200.com","iptv345.com"],
+      "origin": "https://iptv345.com",
+      "name": "iptv345"
+    },{
       "referer": "https://www.kankanzhibo.com/",
       "hosts": [
         "cdn.ggapk.net","kankanzhibo.com"],
