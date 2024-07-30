@@ -1,24 +1,6 @@
 {
   "channelList": [
     {
-      "url": "https://today.line.me/tw/v2/article/yzgBKLo",
-      "name": "7/26 (五) 18:30 味全龍 vs 統一獅"
-    },{
-      "url": "https://today.line.me/tw/v2/article/1DBR189",
-      "name": "7/26 (五) 18:30 台鋼雄鷹 vs 富邦悍將"
-    },{
-      "url": "https://today.line.me/tw/v2/article/JPr7emJ",
-      "name": "7/27 (六) 17:00 味全龍 vs 統一獅"
-    },{
-      "url": "https://today.line.me/tw/v2/article/0MnR9gl",
-      "name": "7/27 (六) 17:00 台鋼雄鷹 vs 富邦悍將"
-    },{
-      "url": "https://today.line.me/tw/v2/article/yzgBK2E",
-      "name": "7/28 (日) 17:00 味全龍 vs 統一獅"
-    },{
-      "url": "https://today.line.me/tw/v2/article/peQq5pp",
-      "name": "7/28 (日) 17:00 台鋼雄鷹 vs 富邦悍將"
-    },{
       "url": "https://today.line.me/tw/v2/article/7NnR3rr",
       "name": "7/31 (三) 18:30 樂天桃猿 vs 富邦悍將"
     },{
