@@ -41,6 +41,12 @@
       "playerType": 2,
       "name": "【測試用】"
     }],
+  "parses": [
+    {
+      "url": "https://www.chaojidianshi.net/extension/260165352.xhtml",
+      "type": 0,
+      "name": "愛爾達體育1"
+    }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
     {
