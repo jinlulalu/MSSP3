@@ -1,3 +1,4 @@
 測試,#genre#
 
-臨時頻道,https://hamivideo.hinet.net/channel/OTT_LIVE_0000001948.do
+MOMO TV,https://news2strm.myvideo.net.tw/bpk-tv/MOMOTV_OTT/HLS/index.m3u8
+tvN,https://news2strm.myvideo.net.tw/bpk-tv/tvN/HLS/index.m3u8
