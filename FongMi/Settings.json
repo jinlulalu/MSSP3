@@ -127,7 +127,7 @@
     },{
       "key": "嗶哩",
       "ext": {
-        "cookie": "",
+        "cookie": "file://TV/www.bilibili.com_cookies.json",
         "type": "李一桐#李玟#老高會員#Capsulone"
       },
       "api": "csp_Bili",
