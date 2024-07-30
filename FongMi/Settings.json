@@ -242,28 +242,12 @@
   "rules": [
     {
       "hosts": [
-        "myvideo.net.tw"],
-      "header": {
-        "referer": "https://myvideo.net.tw/",
-        "origin": "https://myvideo.net.tw"
-      },
-      "name": "MyVideo"
-    },{
-      "hosts": [
         "iptv200.com","iptv345.com"],
       "header": {
         "referer": "https://iptv345.com/",
         "origin": "https://iptv345.com"
       },
       "name": "iptv345"
-    },{
-      "hosts": [
-        "cdn.ggapk.net","kankanzhibo.com"],
-      "header": {
-        "referer": "https://www.kankanzhibo.com/",
-        "origin": "https://www.kankanzhibo.com"
-      },
-      "name": "看看直播"
     },{
       "hosts": [
         "bstvcdn.ballbar.net","chaojidianshi.net"],
@@ -333,12 +317,14 @@
       "regex": [
         "m3u8?pt=m3u8"]
     },{
-      "referer": "https://yeslivetv.com/",
       "script": [
         "document.getElementsByClassName('vjs-big-play-button')[0].click()"],
       "hosts": [
-        "yeslivetv.com"],
-      "origin": "https://yeslivetv.com/",
+        "yeslivetv.com","nlivetv.com"],
+      "header": {
+        "referer": "https://yeslivetv.com/",
+        "origin": "https://yeslivetv.com/"
+      },
       "name": "夜市點擊"
     },{
       "script": [
