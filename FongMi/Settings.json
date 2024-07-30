@@ -242,6 +242,14 @@
   "rules": [
     {
       "hosts": [
+        "myvideo.net.tw"],
+      "header": {
+        "referer": "https://myvideo.net.tw/",
+        "origin": "https://myvideo.net.tw"
+      },
+      "name": "MyVideo"
+    },{
+      "hosts": [
         "iptv200.com","iptv345.com"],
       "header": {
         "referer": "https://iptv345.com/",
