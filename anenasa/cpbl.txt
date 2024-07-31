@@ -1,7 +1,7 @@
 {
   "channelList": [
     {
-      "url": "https://t41.iptv200.com/live/eltasport1/index.m3u8?session=lbbg2n56pj5t3o8rggh885i4no14obzo",
+      "url": "https://t27.iptv200.com/live/eltasport1/index.m3u8?session=6grdixteauxhlujfof9h1v056y1wxsgm",
       "header": "Origin:https://iptv345.com\\r\\nReferer:https://iptv345.com/",
       "name": "臨時頻道"
     },{
