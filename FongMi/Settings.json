@@ -38,7 +38,11 @@
       "name": "【體育/新聞/電視節目】"
     },{
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/test.txt",
-      "playerType": 2,
+      "playerType": 2,      "header": {
+        "referer": "https://kankanzhibo.com/",
+        "origin": "https://kankanzhibo.com"
+      },
+
       "name": "【測試用】"
     }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
