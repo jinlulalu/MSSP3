@@ -13,8 +13,6 @@ TVBS 新聞,https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#http://4gtv.mu
 寰宇新聞台灣,http://4gtv.mumi.rip:9877/280/litv-longturn15/index.m3u8#https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇財經,http://4gtv.mumi.rip:9877/281/litv-longturn23/index.m3u8#https://www.youtube.com/watch?v=WTRQiVWK1jY
 鏡新聞,http://4gtv.mumi.rip:9877/268/4gtv-4gtv075/index.m3u8#https://www.youtube.com/watch?v=5n0y6b0Q25o
-年代新聞,https://z02.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z02.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 國會頻道1,http://4gtv.mumi.rip:9877/170/4gtv-4gtv084/index.m3u8
 國會頻道2,http://4gtv.mumi.rip:9877/171/4gtv-4gtv085/index.m3u8
 Bloomberg,http://4gtv.mumi.rip:9877/283/4gtv-live059/index.m3u8
@@ -50,7 +48,6 @@ GINX Esports TV,http://4gtv.mumi.rip:9877/179/4gtv-4gtv053/index.m3u8
 好消息1,http://4gtv.mumi.rip:9877/9/litv-ftv16/index.m3u8
 原住民電視,http://4gtv.mumi.rip:9877/273/4gtv-live014/index.m3u8
 客家電視,http://4gtv.mumi.rip:9877/107/4gtv-4gtv043/index.m3u8
-公視3,https://z02.ubtvfans.com/live/rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
 大愛2,http://4gtv.mumi.rip:9877/230/4gtv-live106/index.m3u8#https://www.youtube.com/watch?v=DTNkEm6jaqQ#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 好消息2,http://4gtv.mumi.rip:9877/8/litv-ftv17/index.m3u8
 
@@ -86,7 +83,6 @@ TVBS 歡樂,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
 金光布袋戲,http://4gtv.mumi.rip:9877/236/4gtv-live144/index.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 愛爾達娛樂,http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
-霹靂台灣,https://z02.ubtvfans.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8
 霹靂布袋戲,http://4gtv.mumi.rip:9877/301/4gtv-live145/index.m3u8
 
 知識,#genre#
