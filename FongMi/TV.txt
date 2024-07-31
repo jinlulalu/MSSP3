@@ -148,14 +148,14 @@ CMusic 電影原聲,http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
 fun 探索娛樂,http://4gtv.mumi.rip:9877/274/4gtv-live011/index.m3u8
 
 四季線上,#genre#
-兒童卡通,http://4gtv.mumi.rip:9877/269/4gtv-live009/index.m3u8 
-花系列 經典劇場,http://4gtv.mumi.rip:9877/279/4gtv-live016/index.m3u8 
-超人力霸王整套看,http://4gtv.mumi.rip:9877/278/4gtv-live015/index.m3u8 
-經典卡通,http://4gtv.mumi.rip:9877/202/4gtv-live022/index.m3u8 
-經典電影,http://4gtv.mumi.rip:9877/201/4gtv-live021/index.m3u8 
-電影免費看2,http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8 
-精選動漫,http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8 
-戲劇免費看1,http://4gtv.mumi.rip:9877/270/4gtv-live010/index.m3u8 
+兒童卡通,http://4gtv.mumi.rip:9877/269/4gtv-live009/index.m3u8
+花系列 經典劇場,http://4gtv.mumi.rip:9877/279/4gtv-live016/index.m3u8
+超人力霸王整套看,http://4gtv.mumi.rip:9877/278/4gtv-live015/index.m3u8
+經典卡通,http://4gtv.mumi.rip:9877/202/4gtv-live022/index.m3u8
+經典電影,http://4gtv.mumi.rip:9877/201/4gtv-live021/index.m3u8
+電影免費看2,http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
+精選動漫,http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8
+戲劇免費看1,http://4gtv.mumi.rip:9877/270/4gtv-live010/index.m3u8
 戲劇免費看2,http://4gtv.mumi.rip:9877/244/4gtv-live006/index.m3u8
 
 香港,#genre#
@@ -205,3 +205,4 @@ THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 【非凡大探索】高雄美食篇,https://www.youtube.com/watch?v=tOXkcx18aBY
 MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
 大陸尋奇,https://www.youtube.com/watch?v=OVdLUlVHFMI
+
