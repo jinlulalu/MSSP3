@@ -37,13 +37,9 @@
       "origin": "https://www.myvideo.net.tw",
       "name": "【體育/新聞/電視節目】"
     },{
-      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/test.txt",
-      "playerType": 2,      "header": {
-        "referer": "https://kankanzhibo.com/",
-        "origin": "https://kankanzhibo.com"
-      },
-
-      "name": "【測試用】"
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/Temp.m3u",
+      "playerType": 2,
+      "name": "【臨時頻道】"
     }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
