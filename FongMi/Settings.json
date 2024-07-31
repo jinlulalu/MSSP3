@@ -110,17 +110,6 @@
       "type": 3,
       "name": "JustLive"
     },{
-      "key": "csp_Kugou",
-      "api": "csp_Kugou",
-      "searchable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "type": 3,
-      "name": "酷狗"
-    },{
       "key": "嗶哩",
       "ext": {
         "cookie": "SESSDATA=45e287b1%2C1737877250%2C2eee7%2A72CjC7YIqcJPOzo08MjUarWoSjgzFdVU6RaKabX0XVdOXJrDYH7LdvPI0Tj8cXM4IJUH4SVlpWVVZwNGZYMEFyMXVOLWpMeWVGZzFuMUh3WW9Bd2x3UURid296Qmx0ZWdXemxEYnhYenFqZ1B4dnF0QzZSekdqaC1zSVF4VGw2a2dnbzJjcG9KalpRIIEC",
@@ -139,13 +128,6 @@
       "type": 3,
       "name": "星星VPN"
     },{
-      "key": "櫻花",
-      "api": "csp_Ying",
-      "searchable": 1,
-      "changeable": 1,
-      "type": 3,
-      "name": "櫻花"
-    },{
       "key": "巴士",
       "api": "csp_Dm84",
       "searchable": 1,
@@ -159,65 +141,6 @@
       "changeable": 1,
       "type": 3,
       "name": "異界"
-    },{
-      "key": "AList",
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "type": 3,
-      "name": "AList"
-    },{
-      "key": "WebDAV",
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json",
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "changeable": 0,
-      "type": 3,
-      "name": "WebDAV"
-    },{
-      "key": "玩偶",
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "type": 3,
-      "name": "玩偶"
-    },{
-      "key": "七夜",
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 0,
-      "type": 3,
-      "name": "七夜"
-    },{
-      "key": "雲搜",
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "changeable": 0,
-      "type": 3,
-      "name": "雲搜"
-    },{
-      "key": "盤搜",
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "changeable": 0,
-      "type": 3,
-      "name": "盤搜"
-    },{
-      "key": "盤搜索",
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 0,
-      "type": 3,
-      "name": "盤搜索"
-    },{
-      "key": "找資源",
-      "ext": "影視天下第一$$$test2$$$test2",
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "changeable": 0,
-      "type": 3,
-      "name": "找資源"
     },{
       "key": "本地",
       "api": "csp_Local",
