@@ -1,11 +1,11 @@
 {
   "channelList": [
     {
-      "url": "https://t40.iptv200.com/live/eltasport4/index.m3u8?session=zj1kia8lb00z7zs0xoif2vlvglv0l1tl",
+      "url": "https://t28.iptv200.com/live/eltasport1/index.m3u8?session=19cz158qa16msdtxj9roi7mvuocv6yc3",
       "header": "Origin:https://iptv345.com\\r\\nReferer:https://iptv345.com/",
       "name": "臨時頻道1"
     },{
-      "url": "https://cdn.ggapk.net/live/tv?id=b27e2NNiagDcGg4_j19PMlsBYzoT8h4-2txwEfnNEW-FqlLmV_d54I7WNl2NIbWQkE5jCLhB7bxWrE1hg3MhzbbiGuNT4c3tJ1bAeGndL3rhkcmGkwmXCRTxuVRwuS93gcqnjXNKH6CNifbbHuxGUOIJ7GQ3VysxofuTENvzOeIG067YM0pZQedoFNlqICfZT3Fl3pim6SIb9gPdZM5BrmpXB8efn4xXxm_O0u-UuHlNIxrzqNG5wXzGXsdkPPx9PQY6mv_acrApr_LlY3VTdHYlt2blRFMty-n2PRZagKzFh9BVPrmrhLC6yWQTB2b5Bgwj17hLbGnLaTHkTar8NLpoYHsSiO5siEMM3Dw5BVKeIGtpnRGNIWcVjxo1gJ3F-FfjAmf0qHZSWsuQNLu84eIdxvCTFqFkSWSroJ_C274G7CYTLCllEeskTfJAFginSTiBuvor7tZ9D1Im2kB26kFM3Z1RJO4M2eyVNBM7vzT6T2PrfPhbROr6RqwQ2YHvtoUqhP0QyypYiVOF1WQSkTWPpJtgwt-Qdqp8jecjhMi9RLGDIKlX2du2_PiXJ8Jjm8c8OwMuGWeyZcbGso3RfYqdAvw0B2GXN426E2_di6G4kUjva9YpMmhg9bVTLA&idp=dd6aZc8SIQ979DjgvHr3uLpRrNktGtCk50DwsM6zOVVk2u8h",
+      "url": "https://cdn.ggapk.net/live/tv?id=9652gJNV-aRx-pkbEJpQEJHVeCIu-51d5rGom7Ka7tc2liW3EZPKh_k-qV0Fb0ec2GIK1o63ZHF4FrVzjyxn4CW3D3AQlnPJyfecZBhm8nJr236LMwVV7FUo_seLUeYClaHILjLmNtte0mBC9qfq7eZUJteGnZON4vk7kuDRaBXUWfnmrn8DohBdKNFHvD9C1SaXz_t93XgcmfK8FQzTv9nuk_CjVS1Iv2vK3ftFryejUWqup_YhJAIq9URiYJWl29iXgPYPELMKAf1eKLlBTHaqlz-QrlVTu-Lt7AfPykKneLJrNn28JvblbZOW4UFh9p4z96kFbIPFUzAeRr5QGEjq5jtvLxzIXcPje_I0UrdUi6LlPPikjRQNC03TNq-55e2aaSHhQPKrKTKKmArpgjBIL96JH8tQlUtkJWQx5JAtnJs5-TtDSRfERt1C3qNtitAOlzDfrarz4V7BDmyEd83ahkPRBhOp_kvfuGvT58hH22gNgWXPoZzowaFlmmqk75JhxjssG6fMAbhaS1ruxV1pGymKWwuco0HsGbaaa4XYvU27jc-8FtNj5orpmO-ioy4xZyiBv7y1IDHFN-zQDarUZbpJgS-DqQfnQkexLsDNfJxqPZBMYaILAbCHVw&idp=0442DrmbhPhhFTqqcJ0HE1Ftjd8qK2UKoZSFLmmGosEoOoVi",
       "header": "Origin:https://www.kankanzhibo.com\\r\\nReferer:https://www.kankanzhibo.com/",
       "name": "臨時頻道2"
     },{
