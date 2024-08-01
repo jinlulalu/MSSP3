@@ -36,6 +36,12 @@
       "referer": "https://fetfriday.svc.litv.tv/",
       "origin": "https://www.myvideo.net.tw",
       "name": "【體育/新聞/電視節目】"
+    },{
+      "url": "file://TV/Temp.txt",
+      "playerType": 2,
+      "referer": "https://www.123iptv.tv/",
+      "origin": "https://www.123iptv.tv",
+      "name": "【臨時頻道】"
     }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
