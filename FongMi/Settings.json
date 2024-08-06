@@ -36,10 +36,6 @@
       "referer": "https://fetfriday.svc.litv.tv/",
       "origin": "https://www.myvideo.net.tw",
       "name": "【體育/新聞/電視節目】"
-    },{
-      "url": "file://TV/Temp.txt",
-      "type": 3,
-      "name": "【臨時頻道】"
     }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
