@@ -156,7 +156,7 @@ MTV Live HD,http://4gtv.mumi.rip:9877/213/4gtv-live025/index.m3u8
 CMusic 電影原聲,http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
 
 香港,#genre#
-翡翠台,https://stream1.freetv.fun/fei-cui-1.m3u8#https://stream1.freetv.fun/fei-cui-3.m3u8#https://stream1.freetv.fun/fei-cui-6.ctv#http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,https://stream1.freetv.fun/fei-cui-3.m3u8#https://stream1.freetv.fun/fei-cui-6.ctv#http://php.jdshipin.com:8880/smt.php?id=jade_twn
 VIU TV,https://stream1.freetv.fun/viu-tv-1.ctv#http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 
 四季,#genre#
@@ -174,43 +174,3 @@ Muse木棉花,#genre#
 中華一番！,https://www.youtube.com/watch?v=2FJcu6qsM2k
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 蠟筆小新TV版,https://www.youtube.com/watch?v=_jP5o1W3eW0
-
-綜藝,#genre#
-ALL THE K-POP,https://www.youtube.com/watch?v=G3NX_hzCuFM
-THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
-沒玩沒了,https://www.youtube.com/watch?v=HGzIAC5pWr4
-飢餓遊戲,https://www.youtube.com/watch?v=A98LJq71BZg
-萬秀豬王,https://www.youtube.com/watch?v=ADDSmXoPDY8
-綜藝大熱門,https://www.youtube.com/watch?v=-L9cBf3oAO0
-豬哥會社,https://www.youtube.com/watch?v=0aBJU1mFpsk
-現代嘉慶君,https://www.youtube.com/watch?v=IsFtLpSuf_g
-台灣啟示錄,https://www.youtube.com/watch?v=PFeFPjqVi3g
-
-台劇,#genre#
-1989一念間,https://www.youtube.com/watch?v=AYNsSaIX3fo
-小資女孩向前衝,https://www.youtube.com/watch?v=nrdq4Xskufc
-我的老師叫小賀,https://www.youtube.com/watch?v=6CQZxYpW9q4
-神機妙算劉伯溫,https://www.youtube.com/watch?v=9GZNsvhmPXo
-梅花烙,https://www.youtube.com/watch?v=jkF7cseHZ5s
-終極三部曲,https://www.youtube.com/watch?v=Rqgc4mM5A3Y
-廉政英雄,https://www.youtube.com/watch?v=b35xJXmJ-8I
-新兵日記&特戰英雄,https://www.youtube.com/watch?v=032kEdR9Lic
-濟公,https://www.youtube.com/watch?v=oiFivtD5pRE
-藍色水玲瓏,https://www.youtube.com/watch?v=rTcTVZBZtYs
-
-外劇,#genre#
-三國,https://www.youtube.com/watch?v=Njvo1ce2v90
-去有風的地方,https://www.youtube.com/watch?v=be6L9zpVqw4
-知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=hcxLMIfxi0A
-羋月傳,https://www.youtube.com/watch?v=Wo0nJ-keKVw
-軍師聯盟&虎嘯龍吟,https://www.youtube.com/watch?v=AprAcD2oqI8
-神鵰俠侶,https://www.youtube.com/watch?v=Vu_eDZF3PXU
-琅琊榜,https://www.youtube.com/watch?v=u1uU2AzsD0k
-
-食旅,#genre#
-【非凡大探索】台北美食篇,https://www.youtube.com/watch?v=VN8MJJ5QfHs
-【非凡大探索】台中美食篇,https://www.youtube.com/watch?v=A-kHs92gmO8
-【非凡大探索】高雄美食篇,https://www.youtube.com/watch?v=tOXkcx18aBY
-MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
-大陸尋奇,https://www.youtube.com/watch?v=OVdLUlVHFMI
-
