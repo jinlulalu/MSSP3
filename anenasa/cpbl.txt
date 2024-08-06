@@ -33,24 +33,6 @@
       "header": "Origin:https://hamivideo.hinet.net\\r\\nReferer:https://hamivideo.hinet.net/\\r\\Cookie:ohu=c7058664da3a32d5bfa25452db25d89cc75f4d699a106fb0b5bf336ed87f47dd745403909770e1dee18f5ba2cded8b8b2babacb3a6e0484d52db5d4208e62c6c97fb5a2555253256649773e83c9bab227cc60719e51dafe6f1afb966dfa6579661f12c8f4622ee592cb4a00576cfd071d56240747a53a1f72cf989e7fca9cf99477649ce3463d1b3926cc9451d31e56fc35224014ceec9f9fe0a6a98191bfc2a9e5e2a540a49d1a50566b6b7ee7e61c8f3a9fa9bd3073b693aa1960df1ea446f621278c274c32476d5aa3096acd491973d3fc9eb33ecaf5130e653e728974558106da0eb66a49c060dd9c9ef0645483b041543f0e339ec6a93ac7308c2841836d2b899e8fe0a8c7f71d25754fbeef695edbc4569fd1c1721d6bae9212364c8f5a4f362059cb7d5945c297fbfb7eaf31c84ce7793f5e62dd10086419e55c55e12b6cc001de84ac466bedd8bc920b173b895083b82bd9601770970f8a786a2fbd7e78530635861ce8bddc215045f7aa4a6a6889858afc1a8d742c9ccf7f3fbbbbbf32aadc64b4ff0cc09293a49b1844a32e0a8e200a158684f743a5ff71c6c5ecfc2472a1b4bac9dcbfa19f281ea4c4e22032334196254dda3f75bb6ad81b90d19d7bc75c01d4a6a39aa80dfcd5e75ce3a6ca3c3299a392101b187ed2e6dc6e8eb8d3c658ebbd5c7d5487bab64c4e22c856224c83642612cf1",
       "name": "【免費】Hami奧運7台(高球+)"
     },{
-      "url": "https://today.line.me/tw/v2/article/7NnR3rr",
-      "name": "7/31 (三) 18:30 樂天桃猿 vs 富邦悍將"
-    },{
-      "url": "https://today.line.me/tw/v2/article/wJjXmVE",
-      "name": "8/1 (四) 18:30 樂天桃猿 vs 富邦悍將"
-    },{
-      "url": "https://today.line.me/tw/v2/article/WBYO6JJ",
-      "name": "8/2 (五) 18:30 樂天桃猿 vs 味全龍"
-    },{
-      "url": "https://today.line.me/tw/v2/article/peQMk0w",
-      "name": "8/3 (六) 17:00 樂天桃猿 vs 味全龍"
-    },{
-      "url": "https://today.line.me/tw/v2/article/zNxmwZK",
-      "name": "8/4 (日) 17:00 樂天桃猿 vs 味全龍"
-    },{
-      "url": "https://today.line.me/tw/v2/article/3NnXX2B",
-      "name": "8/6 (二) 18:30 富邦悍將 vs 統一獅"
-    },{
       "url": "https://today.line.me/tw/v2/article/Ya2rr7B",
       "name": "8/7 (三) 18:30 富邦悍將 vs 統一獅"
     },{
