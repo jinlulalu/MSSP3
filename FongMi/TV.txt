@@ -13,18 +13,16 @@ TVBS 新聞,https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#http://4gtv.mu
 寰宇新聞台灣,http://4gtv.mumi.rip:9877/280/litv-longturn15/index.m3u8#https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇財經,http://4gtv.mumi.rip:9877/281/litv-longturn23/index.m3u8#https://www.youtube.com/watch?v=WTRQiVWK1jY
 鏡新聞,http://4gtv.mumi.rip:9877/268/4gtv-4gtv075/index.m3u8#https://www.youtube.com/watch?v=5n0y6b0Q25o
-年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-3.m3u8#https://stream1.freetv.fun/nian-dai-xin-wen-4.m3u8
-壹新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 國會頻道1,http://4gtv.mumi.rip:9877/170/4gtv-4gtv084/index.m3u8
 國會頻道2,http://4gtv.mumi.rip:9877/171/4gtv-4gtv085/index.m3u8
 Bloomberg,http://4gtv.mumi.rip:9877/283/4gtv-live059/index.m3u8
-CNBC Asia 財經,http://4gtv.mumi.rip:9877/235/4gtv-live130/index.m3u8
+CNBC Asia,http://4gtv.mumi.rip:9877/235/4gtv-live130/index.m3u8
 DW 德國之聲,http://4gtv.mumi.rip:9877/226/4gtv-live071/index.m3u8
 半島國際新聞,http://4gtv.mumi.rip:9877/85/litv-ftv10/index.m3u8
 VOA 美國之音,http://4gtv.mumi.rip:9877/86/litv-ftv03/index.m3u8
 
 體育,#genre#
-緯來體育,http://125.227.210.55:8155/VideoInput/play.ts#http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#https://cloud.yumixiu768.com/tmp/123.m3u8
+緯來體育,http://125.227.210.55:8155/VideoInput/play.ts#https://cloud.yumixiu768.com/tmp/123.m3u8
 DAZN 1,rtmp://220.130.201.73/sat/tv731#rtmp://f13h.mine.nu/sat/tv731
 DAZN 2,rtmp://220.130.201.73/sat/tv741#rtmp://f13h.mine.nu/sat/tv741
 博斯魅力,http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
@@ -52,8 +50,6 @@ TRACE Sport Stars,http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8
 人間衛視,http://4gtv.mumi.rip:9877/210/4gtv-live008/index.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8?referer=https://go.hoptv.tw
 大愛1,http://4gtv.mumi.rip:9877/209/4gtv-live007/index.m3u8#https://www.youtube.com/watch?v=oV_i3Hsl_zg#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2,http://4gtv.mumi.rip:9877/230/4gtv-live106/index.m3u8#https://www.youtube.com/watch?v=DTNkEm6jaqQ#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-好消息1,http://4gtv.mumi.rip:9877/9/litv-ftv16/index.m3u8
-好消息2,http://4gtv.mumi.rip:9877/8/litv-ftv17/index.m3u8
 
 綜合,#genre#
 民視台灣,http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8
@@ -111,14 +107,17 @@ CN 卡通,http://125.227.210.55:8167/VideoInput/play.ts
 達文西,http://4gtv.mumi.rip:9877/11/4gtv-4gtv018/index.m3u8
 靖天卡通,http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8
 靖洋卡通 Nice Bingo,http://4gtv.mumi.rip:9877/59/4gtv-4gtv057/index.m3u8
+兒童卡通,http://4gtv.mumi.rip:9877/269/4gtv-live009/index.m3u8
+超人力霸王整套看,http://4gtv.mumi.rip:9877/278/4gtv-live015/index.m3u8
 DreamWorks 夢工廠動畫,http://4gtv.mumi.rip:9877/282/4gtv-live017/index.m3u8
+經典卡通,http://4gtv.mumi.rip:9877/202/4gtv-live022/index.m3u8
+精選動漫,http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8
 LiveABC 互動英語,http://4gtv.mumi.rip:9877/188/4gtv-live030/index.m3u8
 Nick Jr. 兒童,http://4gtv.mumi.rip:9877/219/4gtv-live032/index.m3u8
 尼克兒童,http://4gtv.mumi.rip:9877/185/4gtv-live105/index.m3u8
 MOMO 親子,http://4gtv.mumi.rip:9877/231/4gtv-live107/index.m3u8
 龍華卡通,http://4gtv.mumi.rip:9877/295/litv-longturn01/index.m3u8
 ELTV 生活英語,http://4gtv.mumi.rip:9877/106/litv-longturn20/index.m3u8
-東森幼幼,https://stream1.freetv.fun/dong-sen-you-you-1.m3u8
 
 電影,#genre#
 影迷數位電影,http://4gtv.mumi.rip:9877/40/4gtv-4gtv011/index.m3u8
@@ -127,12 +126,15 @@ amc 電影,http://4gtv.mumi.rip:9877/39/4gtv-4gtv017/index.m3u8
 采昌影劇,http://4gtv.mumi.rip:9877/25/4gtv-4gtv049/index.m3u8
 靖天映畫,http://4gtv.mumi.rip:9877/42/4gtv-4gtv055/index.m3u8
 靖天電影,http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
+電影免費看2,http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
+經典電影,http://4gtv.mumi.rip:9877/201/4gtv-live021/index.m3u8
 影迷數位紀實,http://4gtv.mumi.rip:9877/212/4gtv-live023/index.m3u8
 CinemaWorld,http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
 ROCK Action,http://4gtv.mumi.rip:9877/180/4gtv-live138/index.m3u8
 My Cinema Europe HD 我的歐洲電影,http://4gtv.mumi.rip:9877/176/4gtv-live157/index.m3u8
 HITS,http://4gtv.mumi.rip:9877/186/4gtv-live620/index.m3u8
 龍華電影,http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8
+東森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-2.m3u8
 東森電影,https://stream1.freetv.fun/dong-sen-dian-ying-1.ctv
 美亞電影,https://stream1.freetv.fun/mei-ya-dian-ying-1.ctv#https://stream1.freetv.fun/mei-ya-dian-ying-3.ctv
 
@@ -140,10 +142,13 @@ HITS,http://4gtv.mumi.rip:9877/186/4gtv-live620/index.m3u8
 公視戲劇,http://4gtv.mumi.rip:9877/7/4gtv-4gtv042/index.m3u8
 靖洋戲劇,http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
 靖天戲劇,http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8
+戲劇免費看2,http://4gtv.mumi.rip:9877/244/4gtv-live006/index.m3u8
+戲劇免費看1,http://4gtv.mumi.rip:9877/270/4gtv-live010/index.m3u8
+花系列 經典劇場,http://4gtv.mumi.rip:9877/279/4gtv-live016/index.m3u8
+TVBS 台戲,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 龍華日韓,http://4gtv.mumi.rip:9877/28/litv-longturn11/index.m3u8
 龍華偶像,http://4gtv.mumi.rip:9877/296/litv-longturn12/index.m3u8
 龍華戲劇,http://4gtv.mumi.rip:9877/23/litv-longturn18/index.m3u8
-TVBS 台戲,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 民視影劇,http://4gtv.mumi.rip:9877/24/litv-ftv09/index.m3u8
 三立戲劇,https://stream1.freetv.fun/san-li-xi-ju-1.m3u8
 
@@ -151,7 +156,7 @@ TVBS 台戲,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 CLASSICA 古典樂,http://4gtv.mumi.rip:9877/80/4gtv-4gtv059/index.m3u8
 TRACE Urban,http://4gtv.mumi.rip:9877/78/4gtv-4gtv082/index.m3u8
 Mezzo Live HD,http://4gtv.mumi.rip:9877/79/4gtv-4gtv083/index.m3u8
-fun 探索娛樂,http://4gtv.mumi.rip:9877/274/4gtv-live011/index.m3u8
+STINGRAY festival 4K,http://4gtv.mumi.rip:9877/274/4gtv-live011/index.m3u8
 MTV Live HD,http://4gtv.mumi.rip:9877/213/4gtv-live025/index.m3u8
 CMusic 電影原聲,http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
 
@@ -159,18 +164,8 @@ CMusic 電影原聲,http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
 翡翠台,https://stream1.freetv.fun/fei-cui-3.m3u8#https://stream1.freetv.fun/fei-cui-6.ctv#http://php.jdshipin.com:8880/smt.php?id=jade_twn
 VIU TV,https://stream1.freetv.fun/viu-tv-1.ctv#http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 
-四季,#genre#
-電影免費看2,http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
-戲劇免費看2,http://4gtv.mumi.rip:9877/244/4gtv-live006/index.m3u8
-兒童卡通,http://4gtv.mumi.rip:9877/269/4gtv-live009/index.m3u8
-戲劇免費看1,http://4gtv.mumi.rip:9877/270/4gtv-live010/index.m3u8
-超人力霸王整套看,http://4gtv.mumi.rip:9877/278/4gtv-live015/index.m3u8
-花系列 經典劇場,http://4gtv.mumi.rip:9877/279/4gtv-live016/index.m3u8
-經典電影,http://4gtv.mumi.rip:9877/201/4gtv-live021/index.m3u8
-經典卡通,http://4gtv.mumi.rip:9877/202/4gtv-live022/index.m3u8
-精選動漫,http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8
-
 Muse木棉花,#genre#
 中華一番！,https://www.youtube.com/watch?v=2FJcu6qsM2k
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 蠟筆小新TV版,https://www.youtube.com/watch?v=_jP5o1W3eW0
+

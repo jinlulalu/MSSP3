@@ -35,7 +35,7 @@
       "playerType": 2,
       "referer": "https://fetfriday.svc.litv.tv/",
       "origin": "https://www.myvideo.net.tw",
-      "name": "【體育/新聞/電視節目】"
+      "name": "【體育／新聞／電視節目】"
     }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
