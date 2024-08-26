@@ -1,24 +1,6 @@
 {
   "channelList": [
     {
-      "url": "https://today.line.me/tw/v2/article/oq2Erx6",
-      "name": "8/22 (四) 18:30 中信兄弟 vs 統一獅"
-    },{
-      "url": "https://today.line.me/tw/v2/article/Gg68l85",
-      "name": "8/22 (四) 18:30 台鋼雄鷹 vs 富邦悍將"
-    },{
-      "url": "https://today.line.me/tw/v2/article/BEkBR9Q",
-      "name": "8/22 (四) 18:30 樂天桃猿 vs 味全龍"
-    },{
-      "url": "https://today.line.me/tw/v2/article/WBY27XE",
-      "name": "8/23 (五) 18:30 富邦悍將 vs 統一獅"
-    },{
-      "url": "https://today.line.me/tw/v2/article/EXJq7Qa",
-      "name": "8/24 (六) 17:00 富邦悍將 vs 統一獅"
-    },{
-      "url": "https://today.line.me/tw/v2/article/WBY27jy",
-      "name": "8/25 (日) 17:00 富邦悍將 vs 統一獅"
-    },{
       "url": "https://today.line.me/tw/v2/article/mWY8Yom",
       "name": "8/30 (五) 18:30 中信兄弟 vs 富邦悍將"
     },{
