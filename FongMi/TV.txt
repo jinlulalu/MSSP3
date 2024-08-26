@@ -5,7 +5,7 @@ TVBS 新聞,https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#http://4gtv.mu
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 民視新聞,http://4gtv.mumi.rip:9877/257/4gtv-live413/index.m3u8#http://4gtv.mumi.rip:9877/31/litv-ftv13/index.m3u8#https://www.youtube.com/watch?v=ylYJSBUgaMA
-東森新聞,https://aka25p.akamaized.net/live/EBCNews/playlist.m3u8#http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
+東森新聞,https://aka25p.akamaized.net/live/EBCNews/playlist.m3u8#http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8#https://www.youtube.com/watch?v=V1p33hqPrUk
 東森財經新聞,http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8#https://www.youtube.com/watch?v=WHEPzbFA3hw
 非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
 華視新聞,http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8#http://4gtv.mumi.rip:9877/256/4gtv-live452/index.m3u8#https://www.youtube.com/watch?v=wM0g8EoUZ_E
@@ -23,8 +23,8 @@ VOA 美國之音,http://4gtv.mumi.rip:9877/86/litv-ftv03/index.m3u8
 
 體育,#genre#
 緯來體育,http://125.227.210.55:8155/VideoInput/play.ts
-DAZN 1,rtmp://220.130.201.73/sat/tv731#rtmp://f13h.mine.nu/sat/tv731
-DAZN 2,rtmp://220.130.201.73/sat/tv741#rtmp://f13h.mine.nu/sat/tv741
+DAZN 1,rtmp://f13h.mine.nu/sat/tv731
+DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 博斯魅力,http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
 博斯高球1,http://4gtv.mumi.rip:9877/48/litv-longturn05/index.m3u8
 博斯高球2,http://4gtv.mumi.rip:9877/298/litv-longturn06/index.m3u8
