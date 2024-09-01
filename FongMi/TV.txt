@@ -155,7 +155,7 @@ MTV Live,http://4gtv.mumi.rip:9877/213/4gtv-live025/index.m3u8
 cmusic 電影原聲,http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
 
 香港,#genre#
-TVB 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 viu,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 
 Muse木棉花,#genre#
