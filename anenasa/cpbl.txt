@@ -21,5 +21,14 @@
     },{
       "url": "https://today.line.me/tw/v2/article/j7GjxPD",
       "name": "10/7 (一) 18:30 統一獅 vs 富邦悍將"
+    },{
+      "url": "https://today.line.me/tw/v2/article/LXjrZQ2",
+      "name": "10/8 (二) 18:30 富邦悍將 vs 味全龍"
+    },{
+      "url": "https://today.line.me/tw/v2/article/GgXzYDY",
+      "name": "10/9 (三) 18:30 味全龍 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/wJjWxq0",
+      "name": "10/10 (四) 17:00 統一獅 vs 富邦悍將"
     }]
 }
