@@ -35,12 +35,22 @@
       "playerType": 2,
       "referer": "https://fetfriday.svc.litv.tv",
       "origin": "https://www.myvideo.net.tw",
-      "name": "【體育／新聞／電視節目】"
+      "name": "【Gather／4gTV／LiTV／台灣電視節目】"
     },{
       "url": "https://tv.iill.top/m3u/MyTV",
       "playerType": 2,
       "ua": "okhttp",
-      "name": "【myTV／香港TVB】"
+      "name": "【myTV／港澳】"
+    },{
+      "url": "https://tv.iill.top/m3u/Live",
+      "playerType": 2,
+      "ua": "okhttp",
+      "name": "【Live／直播】"
+    },{
+      "url": "https://tv.iill.top/m3u/Sport",
+      "playerType": 2,
+      "ua": "okhttp",
+      "name": "【Sport／體育】"
     },{
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/YT.m3u",
       "playerType": 2,
