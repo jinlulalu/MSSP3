@@ -34,6 +34,7 @@
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
       "playerType": 2,
       "referer": "https://fetfriday.svc.litv.tv",
+      "ua": "okhttp",
       "origin": "https://www.myvideo.net.tw",
       "name": "【Gather／4gTV／LiTV／台灣電視節目】"
     },{
