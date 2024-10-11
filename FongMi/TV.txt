@@ -13,6 +13,8 @@ TVBS 新聞,https://aka25p.akamaized.net/live/TVBSN/playlist.m3u8#https://tv.iil
 寰宇新聞台灣,https://tv.iill.top/litv/litv-longturn15
 寰宇財經,https://tv.iill.top/litv/litv-longturn23
 鏡新聞,https://tv.iill.top/litv/4gtv-4gtv075
+年代新聞,http://211.23.114.106:8517/nian-dai-xin-wen.m3u8#http://211.72.65.236:8539/nian-dai-xin-wen.m3u8
+壹新聞,https://stream1.freetv.fun/d55f0bf3ca7f68a0861404d9ecd878546b74f474f002f7cd69c88d2ce185d041.ctv
 國會頻道1,https://tv.iill.top/litv/4gtv-4gtv084
 國會頻道2,https://tv.iill.top/litv/4gtv-4gtv085
 Bloomberg,https://tv.iill.top/4gtv/283
@@ -22,9 +24,9 @@ VOA 美國之音,https://tv.iill.top/litv/litv-ftv03
 半島國際新聞,https://tv.iill.top/litv/litv-ftv10
 
 體育,#genre#
-緯來體育,http://125.227.210.55:8155/VideoInput/play.ts
-DAZN 1,rtmp://f13h.mine.nu/sat/tv731
-DAZN 2,rtmp://f13h.mine.nu/sat/tv741
+緯來體育,http://125.227.210.55:8155/VideoInput/play.ts#rtmp://twcdn.top/sat/tv721#rtmp://f13h.mine.nu/sat/tv721
+DAZN 1,rtmp://twcdn.top/sat/tv731#rtmp://f13h.mine.nu/sat/tv731
+DAZN 2,rtmp://twcdn.top/sat/tv741#rtmp://f13h.mine.nu/sat/tv741
 博斯魅力,https://tv.iill.top/litv/litv-longturn04
 博斯高球1,https://tv.iill.top/litv/litv-longturn05
 博斯高球2,https://tv.iill.top/litv/litv-longturn06
