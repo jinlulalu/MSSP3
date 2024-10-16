@@ -1,43 +1,10 @@
 {
   "channelList": [
     {
-      "url": "https://today.line.me/tw/v2/article/GgXzYDY",
-      "name": "10/1 (二) 18:30 味全龍 vs 統一獅"
-    },{
-      "url": "https://today.line.me/tw/v2/article/aGmQMB2",
-      "name": "10/1 (二) 18:30 樂天桃猿 vs 富邦悍將"
-    },{
-      "url": "https://today.line.me/tw/v2/article/LXjrZQ2",
-      "name": "10/2 (三) 18:30 富邦悍將 vs 味全龍"
-    },{
-      "url": "https://today.line.me/tw/v2/article/wJjWxq0",
-      "name": "10/4 (五) 18:30 統一獅 vs 富邦悍將"
-    },{
-      "url": "https://today.line.me/tw/v2/article/l2onvM3",
-      "name": "10/5 (六) 17:00 味全龍 vs 富邦悍將"
-    },{
-      "url": "https://today.line.me/tw/v2/article/PGPNZP7",
-      "name": "10/6 (日) 17:00 富邦悍將 vs 味全龍"
-    },{
-      "url": "https://today.line.me/tw/v2/article/j7GjxPD",
-      "name": "10/7 (一) 18:30 統一獅 vs 富邦悍將"
-    },{
-      "url": "https://today.line.me/tw/v2/article/LXjrZQ2",
-      "name": "10/8 (二) 18:30 富邦悍將 vs 味全龍"
-    },{
-      "url": "https://today.line.me/tw/v2/article/GgXzYDY",
-      "name": "10/9 (三) 18:30 味全龍 vs 統一獅"
-    },{
-      "url": "https://today.line.me/tw/v2/article/wJjWxq0",
-      "name": "10/10 (四) 17:00 統一獅 vs 富邦悍將"
-    },{
-      "url": "https://today.line.me/tw/v2/article/KwrVe1a",
-      "name": "G1：10/12 (六) 17:00 樂天桃猿 vs 統一獅"
-    },{
-      "url": "https://today.line.me/tw/v2/article/PGP50pl",
-      "name": "*G3：10/14 (一) 18:30 樂天桃猿 vs 統一獅"
-    },{
       "url": "https://today.line.me/tw/v2/article/9mPG2Rm",
-      "name": "*G4：10/15 (二) 18:30 樂天桃猿 vs 統一獅"
+      "name": "G3：10/22 (二) 18:30 中信兄弟 vs 統一獅"
+    },{
+      "url": "https://today.line.me/tw/v2/article/rm2YY1n",
+      "name": "G4：10/23 (三) 18:30 中信兄弟 vs 統一獅"
     }]
 }
