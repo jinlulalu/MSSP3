@@ -33,24 +33,18 @@
     {
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
       "playerType": 2,
-      "referer": "https://fetfriday.svc.litv.tv",
-      "ua": "okhttp",
-      "origin": "https://www.myvideo.net.tw",
       "name": "【Gather／4gTV／LiTV／台灣電視節目】"
     },{
       "url": "https://tv.iill.top/m3u/MyTV",
       "playerType": 2,
-      "ua": "okhttp",
       "name": "【myTV／港澳】"
     },{
       "url": "https://tv.iill.top/m3u/Live",
       "playerType": 2,
-      "ua": "okhttp",
       "name": "【Live／直播】"
     },{
       "url": "https://tv.iill.top/m3u/Sport",
       "playerType": 2,
-      "ua": "okhttp",
       "name": "【Sport／體育】"
     },{
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/YT.m3u",
@@ -222,13 +216,6 @@
   "logo": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/logo.jpg",
   "rules": [
     {
-      "referer": "https://tv.iill.top",
-      "hosts": [
-        "*.iill.top"],
-      "ua": "okhttp",
-      "origin": "https://tv.iill.top",
-      "name": "yang-1989"
-    },{
       "hosts": [
         "raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"],
       "name": "proxy"
