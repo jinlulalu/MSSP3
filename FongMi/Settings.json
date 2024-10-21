@@ -47,6 +47,10 @@
       "playerType": 2,
       "name": "【Sport／體育】"
     },{
+      "url": "https://raw.githubusercontent.com/250992941/iptv/main/st1.txt",
+      "playerType": 2,
+      "name": "【測試】"
+    },{
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/YT.m3u",
       "playerType": 2,
       "name": "【YouTube】"
