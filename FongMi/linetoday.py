@@ -1,7 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
+import json
 
 def liveContent(article_url):
+    result = {"name": "LINE Today 直播", "url": "", "type": 1}  # type=1 表示 HLS URL
+
     try:
         # 取得文章ID
         article_id = article_url.split('/')[-1]
@@ -28,22 +31,25 @@ def liveContent(article_url):
         broadcast_id = script_data[id_start:id_end]
 
         # 獲取 HLS URL
-        api_url = f"https://today.line.me/webapi/glplive/broadcasts/{broadcast_id}"
-        api_response = requests.get(api_url)
+        hls_api_url = f"https://today.line.me/webapi/glplive/broadcasts/{broadcast_id}"
+        api_response = requests.get(hls_api_url)
         api_response.raise_for_status()  # 確保請求成功
 
         # 確認 response 內容
         if api_response.text:
             data = api_response.json()
             hls_url = data["hlsUrls"]["abr"]
-            return hls_url
+            result["url"] = hls_url  # 將 HLS URL 填入結果
+
         else:
             raise Exception("API 回應的內容為空")
 
     except requests.exceptions.RequestException as e:
         print(f"請求錯誤: {e}")
+        result["url"] = ""
     except Exception as e:
         print(f"處理過程中出現錯誤: {e}")
+        result["url"] = ""
 
-    # 若有錯誤，返回 None
-    return None
+    # 返回 FongMi TV 所需的 JSON 格式
+    return json.dumps([result], ensure_ascii=False)
