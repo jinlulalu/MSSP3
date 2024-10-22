@@ -50,12 +50,6 @@
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/YT.m3u",
       "playerType": 2,
       "name": "【YouTube】"
-    },{
-      "name": "【LINE Today】",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/linetoday.py",
-      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/linetoday.txt",
-      "ext": ""
     }],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "sites": [
