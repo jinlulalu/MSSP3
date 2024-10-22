@@ -1,45 +1,49 @@
 import requests
-import json
 from bs4 import BeautifulSoup
 
 def liveContent(article_url):
-    # ¨ú±o¤å³¹ID
-    article_id = article_url.split('/')[-1]
-
-    # ºc«ØAPI½Ğ¨DªºURL
-    api_url = f'https://today.line.me/tw/v2/article/{article_id}'
-    
     try:
-        # µo°eGET½Ğ¨D
-        response = requests.get(api_url)
-        response.raise_for_status()  # ½T«O½Ğ¨D¦¨¥\
+        # å–å¾—æ–‡ç« ID
+        article_id = article_url.split('/')[-1]
 
-        # ¸ÑªR HTML
+        # æ§‹å»ºAPIè«‹æ±‚çš„URL
+        api_url = f'https://today.line.me/tw/v2/article/{article_id}'
+
+        # ç™¼é€GETè«‹æ±‚
+        response = requests.get(api_url)
+        response.raise_for_status()  # ç¢ºä¿è«‹æ±‚æˆåŠŸ
+
+        # è§£æ HTML
         soup = BeautifulSoup(response.text, 'html.parser')
         script = soup.find("script", string=lambda text: text and "__NUXT__" in text)
 
         if script is None:
-            raise Exception("§ä¤£¨ì script")
+            raise Exception("æ‰¾ä¸åˆ° script")
 
         script_data = script.string
-        # ´£¨ú broadcastId
+
+        # æå– broadcastId
         id_start = script_data.index("broadcastId:") + len("broadcastId:") + 1
         id_end = script_data.index("\"", id_start)
         broadcast_id = script_data[id_start:id_end]
 
-        # Àò¨ú HLS URL
+        # ç²å– HLS URL
         api_url = f"https://today.line.me/webapi/glplive/broadcasts/{broadcast_id}"
         api_response = requests.get(api_url)
-        api_response.raise_for_status()  # ½T«O½Ğ¨D¦¨¥\
-        data = api_response.json()
+        api_response.raise_for_status()  # ç¢ºä¿è«‹æ±‚æˆåŠŸ
 
-        # Àò¨ú HLS URL
-        hls_url = data["hlsUrls"]["abr"]
-        return hls_url
+        # ç¢ºèª response å…§å®¹
+        if api_response.text:
+            data = api_response.json()
+            hls_url = data["hlsUrls"]["abr"]
+            return hls_url
+        else:
+            raise Exception("API å›æ‡‰çš„å…§å®¹ç‚ºç©º")
 
     except requests.exceptions.RequestException as e:
-        print(f"½Ğ¨D¿ù»~: {e}")
+        print(f"è«‹æ±‚éŒ¯èª¤: {e}")
     except Exception as e:
-        print(f"³B²z¹Lµ{¤¤¥X²{¿ù»~: {e}")
+        print(f"è™•ç†éç¨‹ä¸­å‡ºç¾éŒ¯èª¤: {e}")
 
-    return None  # ­Y¦³¿ù»~¡Aªğ¦^ None
+    # è‹¥æœ‰éŒ¯èª¤ï¼Œè¿”å› None
+    return None
