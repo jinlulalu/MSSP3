@@ -29,7 +29,7 @@ def fetch_live_content(url):
 
     return hls_url  # 返回 HLS URL
 
-def process_text(text):
+def liveContent(text):
     class Group:
         def __init__(self, name):
             self.name = name
@@ -132,8 +132,4 @@ response.raise_for_status()  # 檢查請求是否成功
 text = response.text  # 獲取文本內容
 
 # 呼叫處理函數並獲取結果
-output_results = process_text(text)
-liveContent(output_results)
-
-for result in output_results:
-    print(result)  # 可以根據需要進行印出
+liveContent(text)
