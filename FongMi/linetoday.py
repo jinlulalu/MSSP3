@@ -113,8 +113,8 @@ def processLiveContent(text):
                 # 獲取 HLS URL 並添加到結果
                 hls_url = api_data['hlsUrls']['abr']
                 results.append(f"{channel.name},{hls_url}")  # 將替換結果添加到列表中
-
-    return "\n".join(results)  # 返回結果列表，使用換行符連接
+    results = "\n".join(results)  # 返回結果列表，使用換行符連接
+    return liveContent(results)
 
 # 從指定的 URL 讀取 text
 text_url = 'https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/linetoday.txt'
@@ -123,7 +123,4 @@ response.raise_for_status()  # 檢查請求是否成功
 text = response.text  # 獲取文本內容
 
 # 呼叫處理函數並獲取結果
-output_results=processLiveContent(text)
-liveContent(output_results)
-
-#print(output_results)
+processLiveContent(text)
