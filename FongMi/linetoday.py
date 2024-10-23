@@ -14,7 +14,7 @@ def fetch_live_content(url):
     soup = BeautifulSoup(response.text, 'html.parser')
 
     # 查找 broadcastId
-    script_tag = soup.find("script", text=lambda t: t and "__NUXT__" in t)
+    script_tag = soup.find("script", string=lambda t: t and "__NUXT__" in t)
     broadcast_id_match = re.search(r'broadcastId:\s*"(\w+)"', script_tag.string)
     if not broadcast_id_match:
         return None  # 若找不到 broadcastId，返回 None
