@@ -76,6 +76,8 @@
     },
     {
       "api": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/linetoday.py",
+      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/linetoday.txt",
+      "ext": "",
       "type": 3,
       "name": "【LINE Today】"
     }
