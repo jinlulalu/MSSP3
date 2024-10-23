@@ -2,34 +2,11 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-def fetch_live_content(url):
+def process_live_content(text):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0"
     }
 
-    # 發送請求並解析網頁內容
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()  # 檢查請求是否成功
-
-    soup = BeautifulSoup(response.text, 'html.parser')
-
-    # 查找 broadcastId
-    script_tag = soup.find("script", string=lambda t: t and "__NUXT__" in t)
-    broadcast_id_match = re.search(r'broadcastId:\s*"(\w+)"', script_tag.string)
-    if not broadcast_id_match:
-        return None  # 若找不到 broadcastId，返回 None
-    broadcast_id = broadcast_id_match.group(1)
-
-    # 使用 broadcastId 獲取 HLS URL
-    api_url = f"https://today.line.me/webapi/glplive/broadcasts/{broadcast_id}"
-    api_response = requests.get(api_url, headers=headers)
-    api_data = api_response.json()
-
-    hls_url = api_data['hlsUrls']['abr']
-
-    return hls_url  # 返回 HLS URL
-
-def liveContent(text):
     class Group:
         def __init__(self, name):
             self.name = name
@@ -113,17 +90,32 @@ def liveContent(text):
             channel.add_urls(line[index:].split("#"))
             setting.copy(channel)
 
-    # 將處理結果傳遞給 fetch_live_content 並寫入結果列表
+    # 將處理結果寫入結果列表並獲取 HLS URL
     for group in live.get_groups():
         # 寫入群組名稱
         results.append(f"{group.name},#genre#")  # 將群組名稱添加到結果列表
         for channel in group.channels:
             for url in channel.urls:
-                hls_url = fetch_live_content(url)
-                if hls_url:
-                    results.append(f"{channel.name},{hls_url}")  # 將替換結果添加到列表中
+                # 獲取 HLS URL 的邏輯
+                response = requests.get(url, headers=headers)
+                response.raise_for_status()  # 檢查請求是否成功
 
-    return results  # 返回結果列表
+                soup = BeautifulSoup(response.text, 'html.parser')
+                script_tag = soup.find("script", string=lambda t: t and "__NUXT__" in t)
+                broadcast_id_match = re.search(r'broadcastId:\s*"(\w+)"', script_tag.string)
+                if not broadcast_id_match:
+                    continue  # 若找不到 broadcastId，跳過
+                broadcast_id = broadcast_id_match.group(1)
+
+                api_url = f"https://today.line.me/webapi/glplive/broadcasts/{broadcast_id}"
+                api_response = requests.get(api_url, headers=headers)
+                api_data = api_response.json()
+
+                hls_url = api_data['hlsUrls']['abr']
+                results.append(f"{channel.name},{hls_url}")  # 將替換結果添加到列表中
+
+    results = "\n".join(results)  # 返回結果列表，使用換行符連接
+    return results
 
 # 從指定的 URL 讀取 text
 text_url = 'https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/linetoday.txt'
@@ -132,4 +124,4 @@ response.raise_for_status()  # 檢查請求是否成功
 text = response.text  # 獲取文本內容
 
 # 呼叫處理函數並獲取結果
-liveContent(text)
+process_live_content(text)
