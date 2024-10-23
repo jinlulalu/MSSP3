@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-import os
 
 def fetch_live_content(url):
     headers = {
@@ -122,14 +121,9 @@ def process_text(text):
             for url in channel.urls:
                 hls_url = fetch_live_content(url)
                 if hls_url:
-                    results.append(f"{channel.name}, {hls_url}")  # 將替換結果添加到列表中
+                    results.append(f"{channel.name},{hls_url}")  # 將替換結果添加到列表中
 
     return results  # 返回結果列表
-
-# 檢查並刪除已有的 linetoday.txt
-if os.path.exists('linetoday.txt'):
-    os.remove('linetoday.txt')
-    print("已刪除舊的 linetoday.txt")
 
 # 從指定的 URL 讀取 text
 text_url = 'https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/linetoday.txt'
@@ -139,10 +133,3 @@ text = response.text  # 獲取文本內容
 
 # 呼叫處理函數並獲取結果
 output_results = process_text(text)
-
-# 將結果寫入 linetoday.txt
-with open('linetoday.txt', 'w', encoding='utf-8') as file:
-    for result in output_results:
-        file.write(result + '\n')
-
-print("結果已成功寫入 linetoday.txt")
