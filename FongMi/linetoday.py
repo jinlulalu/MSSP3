@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+import os
 
 def fetch_live_content(url):
     headers = {
@@ -87,7 +88,7 @@ def process_text(text):
 
     live = Live()
     setting = Setting.create()
-    results = ["職棒,#genre#"]  # 預設內容
+    results = []
 
     for line in text.split("\n"):
         line = line.strip()
@@ -115,6 +116,8 @@ def process_text(text):
 
     # 將處理結果傳遞給 fetch_live_content 並寫入結果列表
     for group in live.get_groups():
+        # 寫入群組名稱
+        results.append(f"{group.name},#genre#")  # 將群組名稱添加到結果列表
         for channel in group.channels:
             for url in channel.urls:
                 hls_url = fetch_live_content(url)
@@ -123,13 +126,23 @@ def process_text(text):
 
     return results  # 返回結果列表
 
-# 示例 text
-text = '''TVBS新聞台,https://today.line.me/tw/v2/article/jggMBa
-生活新聞台,https://today.line.me/tw/v2/article/Lvpg70'''
+# 檢查並刪除已有的 linetoday.txt
+if os.path.exists('linetoday.txt'):
+    os.remove('linetoday.txt')
+    print("已刪除舊的 linetoday.txt")
+
+# 從指定的 URL 讀取 text
+text_url = 'https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/linetoday.txt'
+response = requests.get(text_url)
+response.raise_for_status()  # 檢查請求是否成功
+text = response.text  # 獲取文本內容
 
 # 呼叫處理函數並獲取結果
 output_results = process_text(text)
 
-# 可以根據需要進行印出
-#for result in output_results:
-#    print(result)
+# 將結果寫入 linetoday.txt
+with open('linetoday.txt', 'w', encoding='utf-8') as file:
+    for result in output_results:
+        file.write(result + '\n')
+
+print("結果已成功寫入 linetoday.txt")
