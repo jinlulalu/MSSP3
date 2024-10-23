@@ -133,3 +133,7 @@ text = response.text  # 獲取文本內容
 
 # 呼叫處理函數並獲取結果
 output_results = process_text(text)
+liveContent(output_results)
+
+for result in output_results:
+    print(result)  # 可以根據需要進行印出
