@@ -75,9 +75,7 @@
       "name": "【YouTube】"
     },
     {
-      "api": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/linetoday.py",
-      "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/linetoday.txt",
-      "ext": "",
+      "api": "file://TV/linetoday.py",
       "type": 3,
       "name": "【LINE Today】"
     }
