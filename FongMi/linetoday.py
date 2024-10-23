@@ -1,50 +1,44 @@
 import requests
 from bs4 import BeautifulSoup
+import re
 import json
 
-def liveContent(api_url):
-    result = {"name": "LINE Today 直播", "url": "", "type": 1}  # type=1 表示 HLS URL
+def liveContent(article_url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0"
+    }
 
-    try:
-        # 發送 GET 請求以獲取文章數據
-        response = requests.get(api_url)
-        response.raise_for_status()  # 確保請求成功
+    # 1. 解析文章頁面
+    response = requests.get(article_url, headers=headers)
+    if response.status_code != 200:
+        raise Exception(f"無法訪問該頁面，狀態碼: {response.status_code}")
+    
+    # 2. 使用 BeautifulSoup 解析 HTML
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    # 3. 尋找包含 __NUXT__ 的 script 標籤
+    script_tag = soup.find("script", text=lambda t: t and "__NUXT__" in t)
+    if not script_tag:
+        raise Exception("找不到包含 __NUXT__ 的 script")
+    
+    # 4. 提取 script 中的 JSON 資料
+    script_content = script_tag.string
+    
+    # 5. 使用正則表達式找到 broadcastId
+    broadcast_id_match = re.search(r'broadcastId:\s*"(\w+)"', script_content)
+    if not broadcast_id_match:
+        raise Exception("找不到 broadcastId")
+    broadcast_id = broadcast_id_match.group(1)
 
-        # 解析 HTML 內容
-        soup = BeautifulSoup(response.text, 'html.parser')
-        script = soup.find("script", string=lambda text: text and "__NUXT__" in text)
+    # 6. 構建 API 請求 URL 並獲取直播源
+    api_url = f"https://today.line.me/webapi/glplive/broadcasts/{broadcast_id}"
+    api_response = requests.get(api_url, headers=headers)
+    
+    if api_response.status_code != 200:
+        raise Exception(f"無法訪問 API，狀態碼: {api_response.status_code}")
+    
+    api_data = json.loads(api_response.text)
 
-        if script is None:
-            raise Exception("找不到 script")
-
-        # 提取 broadcastId
-        script_data = script.string
-        id_start = script_data.index("broadcastId:") + len("broadcastId:") + 1
-        id_end = script_data.index("\"", id_start)
-        broadcast_id = script_data[id_start:id_end]
-
-        # 獲取 HLS URL
-        hls_api_url = f"https://today.line.me/webapi/glplive/broadcasts/{broadcast_id}"
-        api_response = requests.get(hls_api_url)
-        api_response.raise_for_status()  # 確保請求成功
-
-        # 確認 API 回應內容
-        if api_response.text:
-            data = api_response.json()
-            hls_url = data["hlsUrls"]["abr"]
-            result["url"] = hls_url  # 將 HLS URL 填入結果
-            
-            # 返回 FongMi TV 所需的 JSON 格式
-            return json.dumps([result], ensure_ascii=False)
-
-        else:
-            raise Exception("API 回應的內容為空")
-
-    except requests.exceptions.RequestException as e:
-        print(f"請求錯誤: {e}")
-    except Exception as e:
-        print(f"處理過程中出現錯誤: {e}")
-
-    # 若有錯誤，返回 None
-    return json.dumps([])  # 返回空的 JSON 列表
-
+    # 7. 獲取 HLS URL (直播源)
+    hls_url = api_data['hlsUrls']['abr']
+    return hls_url
