@@ -1,41 +1,73 @@
 import requests
 from bs4 import BeautifulSoup
-import re
 import json
+import re
 
-def liveContent(article_url):
+def fetch_live_content(live, text):
+    live_content = []
+
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0"
     }
 
-    response = requests.get(article_url, headers=headers)
-    if response.status_code != 200:
-        raise Exception(f"無法訪問該頁面，狀態碼: {response.status_code}")
-    
-    soup = BeautifulSoup(response.text, 'html.parser')
-    
-    script_tag = soup.find("script", text=lambda t: t and "__NUXT__" in t)
-    if not script_tag:
-        raise Exception("找不到包含 __NUXT__ 的 script")
-    
-    script_content = script_tag.string
-    
-    broadcast_id_match = re.search(r'broadcastId:\s*"(\w+)"', script_content)
-    if not broadcast_id_match:
-        raise Exception("找不到 broadcastId")
-    broadcast_id = broadcast_id_match.group(1)
+    for group in text['groups']:
+        group_name = group['name']
+        group_data = {
+            "name": group_name,
+            "channels": []
+        }
 
-    api_url = f"https://today.line.me/webapi/glplive/broadcasts/{broadcast_id}"
-    api_response = requests.get(api_url, headers=headers)
-    
-    if api_response.status_code != 200:
-        raise Exception(f"無法訪問 API，狀態碼: {api_response.status_code}")
-    
-    api_data = json.loads(api_response.text)
+        for channel in group['channels']:
+            article_url = channel['urls'][0]  # 使用第一個 URL
+            article_name = channel['name']
 
-    # 檢查 api_data 是否包含 hlsUrls
-    if 'hlsUrls' not in api_data or 'abr' not in api_data['hlsUrls']:
-        raise Exception("無法找到 HLS URL")
+            # 發送請求並解析網頁內容
+            try:
+                response = requests.get(article_url, headers=headers)
+                response.raise_for_status()  # 檢查是否成功
+            except requests.RequestException as e:
+                print(f"Error fetching {article_url}: {e}")
+                continue  # 跳過該 channel
 
-    hls_url = api_data['hlsUrls']['abr']
-    return hls_url
+            soup = BeautifulSoup(response.text, 'html.parser')
+
+            # 查找 broadcastId
+            script_tag = soup.find("script", text=lambda t: t and "__NUXT__" in t)
+            if script_tag is None:
+                print(f"No script tag with __NUXT__ found for {article_name}")
+                continue  # 跳過該 channel
+
+            broadcast_id_match = re.search(r'broadcastId:\s*"(\w+)"', script_tag.string)
+            if broadcast_id_match is None:
+                print(f"No broadcastId found for {article_name}")
+                continue  # 跳過該 channel
+            broadcast_id = broadcast_id_match.group(1)
+
+            # 使用 broadcastId 獲取 HLS URL
+            api_url = f"https://today.line.me/webapi/glplive/broadcasts/{broadcast_id}"
+            try:
+                api_response = requests.get(api_url, headers=headers)
+                api_response.raise_for_status()  # 檢查是否成功
+            except requests.RequestException as e:
+                print(f"Error fetching API data for broadcastId {broadcast_id}: {e}")
+                continue  # 跳過該 channel
+
+            api_data = api_response.json()
+
+            # 確認 'hlsUrls' 和 'abr' 是否存在
+            if 'hlsUrls' not in api_data or 'abr' not in api_data['hlsUrls']:
+                print(f"HLS URL not found for {article_name}")
+                continue  # 跳過該 channel
+
+            hls_url = api_data['hlsUrls']['abr']
+
+            # 添加頻道的名稱和 HLS URL 到當前 group 的 channels 列表中
+            group_data['channels'].append({
+                "name": article_name,
+                "urls": [hls_url]
+            })
+
+        # 添加完整的 group 到 live_content
+        live_content.append(group_data)
+
+    return live_content
