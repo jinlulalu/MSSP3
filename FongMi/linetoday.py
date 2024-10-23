@@ -123,5 +123,7 @@ response.raise_for_status()  # 檢查請求是否成功
 text = response.text  # 獲取文本內容
 
 # 呼叫處理函數並獲取結果
-processed_content = processLiveContent(text)
-print(processed_content)
+output_results=processLiveContent(text)
+liveContent(output_results)
+
+#print(output_results)
