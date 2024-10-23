@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-def liveContent(text):
+def processLiveContent(text):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0"
     }
@@ -120,7 +120,7 @@ def liveContent(text):
 text_url = 'https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/linetoday.txt'
 response = requests.get(text_url)
 response.raise_for_status()  # 檢查請求是否成功
-content = response.text  # 獲取文本內容
+text = response.text  # 獲取文本內容
 
 # 呼叫處理函數並獲取結果
-liveContent(content)
+processLiveContent(text)
