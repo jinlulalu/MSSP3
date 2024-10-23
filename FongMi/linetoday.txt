@@ -1,2 +1,3 @@
 職棒,#genre#
 TVBS新聞台,https://today.line.me/tw/v2/article/jggMBa
+民視新聞台,https://today.line.me/tw/v2/article/PNNoG5
