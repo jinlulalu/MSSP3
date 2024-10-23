@@ -1,5 +1,4 @@
 import requests
-from bs4 import BeautifulSoup
 import re
 
 def processLiveContent(text):
@@ -100,17 +99,18 @@ def processLiveContent(text):
                 response = requests.get(url, headers=headers)
                 response.raise_for_status()  # 檢查請求是否成功
 
-                soup = BeautifulSoup(response.text, 'html.parser')
-                script_tag = soup.find("script", string=lambda t: t and "__NUXT__" in t)
-                broadcast_id_match = re.search(r'broadcastId:\s*"(\w+)"', script_tag.string)
+                # 使用正則表達式直接提取 broadcastId
+                broadcast_id_match = re.search(r'broadcastId:\s*"(\w+)"', response.text)
                 if not broadcast_id_match:
                     continue  # 若找不到 broadcastId，跳過
                 broadcast_id = broadcast_id_match.group(1)
 
+                # 呼叫 API 獲取 HLS URL
                 api_url = f"https://today.line.me/webapi/glplive/broadcasts/{broadcast_id}"
                 api_response = requests.get(api_url, headers=headers)
                 api_data = api_response.json()
 
+                # 獲取 HLS URL 並添加到結果
                 hls_url = api_data['hlsUrls']['abr']
                 results.append(f"{channel.name},{hls_url}")  # 將替換結果添加到列表中
 
@@ -123,4 +123,5 @@ response.raise_for_status()  # 檢查請求是否成功
 text = response.text  # 獲取文本內容
 
 # 呼叫處理函數並獲取結果
-processLiveContent(text)
+processed_content = processLiveContent(text)
+print(processed_content)
