@@ -1,7 +1,7 @@
 import requests
 import re
 
-def fetchLineToday(article_ids):
+def liveContent(article_ids):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0"
     }
@@ -33,5 +33,5 @@ def fetchLineToday(article_ids):
 # 主程式
 if __name__ == "__main__":
     article_ids = ["jggMBa", "PNNoG5","9mPG2Rm"]
-    text = fetchLineToday(article_ids)
+    text = liveContent(article_ids)
     print(text)
