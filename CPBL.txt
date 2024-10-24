@@ -1,4 +1,0 @@
-棒球,#genre#
-G3：10/22 (二) 18:30 中信兄弟 vs 統一獅,https://lss-oal.line-scdn.net/h2JOKHFrfbWViMnwUhbITdApzegsPXzR0DEpwWFYwWDA4R0EwShNwASB5YyMkAVFsMlxyXCcxSAo_CkFBJVRDZiBuTzNfWXkwOQxKSCswWB4rXnpWTx0/abr.m3u8
-G4：10/23 (三) 18:30 中信兄弟 vs 統一獅,https://lss-oal.line-scdn.net/hPnZD_En6D0F3PR4-5axxUB98GC8aUFZQGUUSfEN1AwdCUxpIKx0SbBs-AxgpDjNIJ1MQeDI-Ki4qBSNlMFshQjVhLSoxSjdLPBIrbD4_Ojo6URhyWhM/abr.m3u8
-G3：10/14 (一) 18:30 樂天桃猿 vs 統一獅,https://lss-oal.line-scdn.net/hzsopXrGPJVxCCTQ37vtbTSpIMjIvZHxNLHE4YXZCEBkYcBxsNG0BOTJUKzcpPBlVEmc6ZQcKADMfMQl4BW8LXwBULjcXcBxzDTAUTwsNBxkPZTJvbyc/abr.m3u8
