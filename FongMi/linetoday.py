@@ -1,12 +1,12 @@
 import requests
 import re
 
-def liveContent(article_data):
+def fetchLineToday(article_data):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0"
     }
     
-    results = ['職棒,#genre#']  # 用於存儲所有的結果
+    results = []  # 用於存儲所有的結果
 
     for title, article_url in article_data:
         # 發送請求到指定的文章 URL
@@ -40,12 +40,9 @@ def liveContent(article_data):
 # 主程式
 if __name__ == "__main__":
     article_data = [
-        ("節目1", 'https://today.line.me/tw/v2/article/jggMBa'),
-        ("節目2", 'https://today.line.me/tw/v2/article/PNNoG5')  # 替換為其他實際的網址
+        ("節目1", "https://today.line.me/tw/v2/article/jggMBa"),
+        ("節目2", "https://today.line.me/tw/v2/article/PNNoG5")
     ]
     
-    results = liveContent(article_data)
-
-    # 打印所有獲得的結果
-    for result in results:
-        print(result)
+    text = fetchLineToday(article_data)
+    print(text)
