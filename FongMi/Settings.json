@@ -52,7 +52,7 @@
     {
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/TV.txt",
       "playerType": 2,
-      "name": "【Gather／4gTV／LiTV／台灣電視節目】"
+      "name": "【台灣電視節目】"
     },
     {
       "url": "https://raw.githubusercontent.com/jinlulalu/MSSP3/main/FongMi/CPBL.txt",
@@ -62,17 +62,7 @@
     {
       "url": "https://tv.iill.top/m3u/MyTV",
       "playerType": 2,
-      "name": "【myTV／港澳】"
-    },
-    {
-      "url": "https://tv.iill.top/m3u/Live",
-      "playerType": 2,
-      "name": "【Live／直播】"
-    },
-    {
-      "url": "https://tv.iill.top/m3u/Sport",
-      "playerType": 2,
-      "name": "【Sport／體育】"
+      "name": "【港澳】"
     }
   ],
   "spider": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
